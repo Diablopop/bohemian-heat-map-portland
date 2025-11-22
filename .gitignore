@@ -1,0 +1,22 @@
+# Node modules (if you install any packages later)
+node_modules/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Logs
+*.log
+npm-debug.log*
+
+# Optional: if you want to ignore businesses-data.json during development
+# and only commit it when you update it manually
+# businesses-data.json
+
