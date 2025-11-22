@@ -362,8 +362,8 @@ function initializeUI() {
     document.addEventListener('mousemove', (e) => {
         if (!isDragging) return;
         const deltaY = startY - e.clientY;
-        const newHeight = Math.min(Math.max(startHeight + deltaY, 60), window.innerHeight * 0.7);
-        drawer.style.maxHeight = newHeight + 'px';
+        const newHeight = Math.min(Math.max(startHeight + deltaY, 60), window.innerHeight * 0.8);
+        drawer.style.height = newHeight + 'px';
     });
 
     document.addEventListener('mouseup', () => {
@@ -381,8 +381,8 @@ function initializeUI() {
     document.addEventListener('touchmove', (e) => {
         if (!isDragging) return;
         const deltaY = startY - e.touches[0].clientY;
-        const newHeight = Math.min(Math.max(startHeight + deltaY, 60), window.innerHeight * 0.7);
-        drawer.style.maxHeight = newHeight + 'px';
+        const newHeight = Math.min(Math.max(startHeight + deltaY, 60), window.innerHeight * 0.8);
+        drawer.style.height = newHeight + 'px';
         e.preventDefault();
     });
 
