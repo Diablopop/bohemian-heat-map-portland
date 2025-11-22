@@ -28,7 +28,11 @@ const EXCLUDED_CHAINS = [
     'kfc', 'sonic', 'chipotle', 'arby', 'papa john', 'popeyes',
     'chick-fil-a', 'chick fil a', 'panera', 'jack in the box',
     // Retail chains
-    'autozone', 'bi-mart', 'bi mart', 'target', 'michael\'s', 'michaels', 'ross'
+    'autozone', 'bi-mart', 'bi mart', 'target', 'michael\'s', 'michaels', 'ross',
+    // Coffee chains (excluded from Indie Coffee Shops)
+    'dutch bros', 'scooter\'s coffee', 'scooters coffee', 'tim hortons', 'caribou coffee',
+    'biggby coffee', 'biggby', '7 brew', 'krispy kreme', 'shipley', 'shipley do-nuts',
+    'daylight donuts', 'pj\'s coffee', 'pjs coffee'
 ];
 
 // Get category definitions (same as in app.js)
@@ -247,8 +251,32 @@ function getCategoryDefinitions() {
                 out center tags;
             `.replace(/\{\{bbox\}\}/g, bbox),
             filterFn: (tags) => {
+                // Filter out chain coffee shops
                 const name = (tags.name || '').toLowerCase();
-                const chains = ['starbucks', 'dunkin', 'dunkin donuts', 'peets', 'tullys', 'coffee bean'];
+                const chains = [
+                    'starbucks',
+                    'dunkin',
+                    'dunkin donuts',
+                    'peets',
+                    'peet\'s',
+                    'tullys',
+                    'coffee bean',
+                    'coffee bean & tea leaf',
+                    'dutch bros',
+                    'scooter\'s coffee',
+                    'scooters coffee',
+                    'tim hortons',
+                    'caribou coffee',
+                    'biggby coffee',
+                    'biggby',
+                    '7 brew',
+                    'krispy kreme',
+                    'shipley',
+                    'shipley do-nuts',
+                    'daylight donuts',
+                    'pj\'s coffee',
+                    'pjs coffee'
+                ];
                 return tags.amenity === 'cafe' && !chains.some(chain => name.includes(chain));
             }
         },

@@ -1,15 +1,15 @@
 {
   "metadata": {
-    "generatedAt": "2025-11-22T04:33:58.806Z",
+    "generatedAt": "2025-11-22T04:41:37.548Z",
     "portlandBbox": {
       "south": 45.43,
       "west": -122.84,
       "north": 45.65,
       "east": -122.47
     },
-    "totalBusinesses": 1174,
+    "totalBusinesses": 1148,
     "categories": 12,
-    "excludedChains": 28
+    "excludedChains": 42
   },
   "businesses": [
     {
@@ -11421,22 +11421,6 @@
       "category": "indie-coffee"
     },
     {
-      "id": 2459689358,
-      "name": "Peet's Coffee",
-      "lat": 45.6200483,
-      "lon": -122.5562721,
-      "tags": {
-        "amenity": "cafe",
-        "brand": "Peet's Coffee",
-        "brand:wikidata": "Q1094101",
-        "cuisine": "coffee_shop",
-        "name": "Peet's Coffee",
-        "takeaway": "yes"
-      },
-      "type": "business",
-      "category": "indie-coffee"
-    },
-    {
       "id": 2830336453,
       "name": "Food in Bloom Catering",
       "lat": 45.5376899,
@@ -11478,29 +11462,6 @@
         "opening_hours": "Mo-Sa 06:30-13:00",
         "phone": "+1-503-360-1456",
         "website": "http://cocodonuts.com/"
-      },
-      "type": "business",
-      "category": "indie-coffee"
-    },
-    {
-      "id": 3037858537,
-      "name": "Peet's Coffee",
-      "lat": 45.4858586,
-      "lon": -122.7557791,
-      "tags": {
-        "addr:city": "Portland",
-        "addr:housenumber": "7700",
-        "addr:postcode": "97225",
-        "addr:state": "OR",
-        "addr:street": "Southwest Beaverton Hillsdale Highway",
-        "amenity": "cafe",
-        "brand": "Peet's Coffee",
-        "brand:wikidata": "Q1094101",
-        "cuisine": "coffee_shop",
-        "name": "Peet's Coffee",
-        "phone": "+1-503-292-0731",
-        "takeaway": "yes",
-        "website": "https://www.peets.com/"
       },
       "type": "business",
       "category": "indie-coffee"
@@ -12685,30 +12646,6 @@
       "category": "indie-coffee"
     },
     {
-      "id": 4184268427,
-      "name": "Peet's Coffee",
-      "lat": 45.6147327,
-      "lon": -122.5022802,
-      "tags": {
-        "addr:city": "Vancouver",
-        "addr:housenumber": "16501",
-        "addr:postcode": "98684",
-        "addr:state": "WA",
-        "addr:street": "Southeast Mill Plain Boulevard",
-        "addr:unit": "100",
-        "amenity": "cafe",
-        "brand": "Peet's Coffee",
-        "brand:wikidata": "Q1094101",
-        "cuisine": "coffee_shop",
-        "name": "Peet's Coffee",
-        "phone": "+1-360-944-6585",
-        "takeaway": "yes",
-        "website": "https://www.peets.com/"
-      },
-      "type": "business",
-      "category": "indie-coffee"
-    },
-    {
       "id": 4194478370,
       "name": "Savona Coffee House",
       "lat": 45.615429,
@@ -12786,29 +12723,6 @@
         "outdoor_seating": "yes",
         "street_vendor": "yes",
         "website": "https://www.tovcoffee.com/"
-      },
-      "type": "business",
-      "category": "indie-coffee"
-    },
-    {
-      "id": 4236586902,
-      "name": "Peet's Coffee",
-      "lat": 45.5121715,
-      "lon": -122.6233288,
-      "tags": {
-        "addr:city": "Portland",
-        "addr:housenumber": "3805",
-        "addr:postcode": "97214",
-        "addr:state": "OR",
-        "addr:street": "Southeast Hawthorne Boulevard",
-        "amenity": "cafe",
-        "brand": "Peet's Coffee",
-        "brand:wikidata": "Q1094101",
-        "cuisine": "coffee_shop",
-        "name": "Peet's Coffee",
-        "phone": "+1-503-872-3300",
-        "takeaway": "yes",
-        "website": "https://www.peets.com/"
       },
       "type": "business",
       "category": "indie-coffee"
@@ -13137,24 +13051,6 @@
         "level": "0",
         "name": "Hechalou Tea Beaverton",
         "website": "https://www.hechaloupdx.com/"
-      },
-      "type": "business",
-      "category": "indie-coffee"
-    },
-    {
-      "id": 4829424131,
-      "name": "Peet's Coffee",
-      "lat": 45.5886576,
-      "lon": -122.5934116,
-      "tags": {
-        "amenity": "cafe",
-        "brand": "Peet's Coffee",
-        "brand:wikidata": "Q1094101",
-        "cuisine": "coffee_shop",
-        "level": "0",
-        "name": "Peet's Coffee",
-        "opening_hours:signed": "no",
-        "takeaway": "yes"
       },
       "type": "business",
       "category": "indie-coffee"
@@ -14414,31 +14310,6 @@
       "category": "indie-coffee"
     },
     {
-      "id": 6150846054,
-      "name": "Dutch Bros. Coffee",
-      "lat": 45.5710353,
-      "lon": -122.6137693,
-      "tags": {
-        "addr:city": "Portland",
-        "addr:housenumber": "4721",
-        "addr:postcode": "97218",
-        "addr:state": "OR",
-        "addr:street": "Northeast Columbia Boulevard",
-        "amenity": "cafe",
-        "branch": "Portland",
-        "brand": "Dutch Bros. Coffee",
-        "brand:wikidata": "Q5317253",
-        "cuisine": "coffee_shop",
-        "drive_through": "yes",
-        "name": "Dutch Bros. Coffee",
-        "ref": "DB191",
-        "takeaway": "only",
-        "website": "https://locations.dutchbros.com/dutch-bros-coffee-5055dcb9c209"
-      },
-      "type": "business",
-      "category": "indie-coffee"
-    },
-    {
       "id": 6164954516,
       "name": "f and b cafe",
       "lat": 45.5240958,
@@ -15545,31 +15416,6 @@
       "category": "indie-coffee"
     },
     {
-      "id": 6899716011,
-      "name": "Peet's Coffee",
-      "lat": 45.5351959,
-      "lon": -122.6506946,
-      "tags": {
-        "addr:city": "Portland",
-        "addr:housenumber": "1441",
-        "addr:postcode": "97232",
-        "addr:state": "OR",
-        "addr:street": "Northeast Broadway",
-        "amenity": "cafe",
-        "brand": "Peet's Coffee",
-        "brand:wikidata": "Q1094101",
-        "cuisine": "coffee_shop",
-        "internet_access": "wlan",
-        "name": "Peet's Coffee",
-        "opening_hours": "Mo-Fr 05:30-20:00; Sa-Su 06:00-20:00",
-        "phone": "+1-503-493-0192",
-        "takeaway": "yes",
-        "website": "https://www.peets.com/"
-      },
-      "type": "business",
-      "category": "indie-coffee"
-    },
-    {
       "id": 6923748540,
       "name": "Happy Espresso",
       "lat": 45.4628989,
@@ -15713,32 +15559,6 @@
         "name": "Via Delizia on Broadway",
         "opening_hours": "Mo-Fr 07:00-17:00",
         "phone": "+1-503-208-2205"
-      },
-      "type": "business",
-      "category": "indie-coffee"
-    },
-    {
-      "id": 7688793422,
-      "name": "Dutch Bros. Coffee",
-      "lat": 45.5797544,
-      "lon": -122.5751306,
-      "tags": {
-        "addr:city": "Portland",
-        "addr:housenumber": "8169",
-        "addr:postcode": "97218",
-        "addr:state": "OR",
-        "addr:street": "Northeast Air Cargo Road",
-        "amenity": "cafe",
-        "branch": "Portland",
-        "brand": "Dutch Bros. Coffee",
-        "brand:wikidata": "Q5317253",
-        "cuisine": "coffee_shop",
-        "drive_through": "yes",
-        "name": "Dutch Bros. Coffee",
-        "opening_hours": "24/7",
-        "ref": "DB305",
-        "takeaway": "only",
-        "website": "https://locations.dutchbros.com/dutch-bros-coffee-6aebed5771b7"
       },
       "type": "business",
       "category": "indie-coffee"
@@ -17212,31 +17032,6 @@
       "category": "indie-coffee"
     },
     {
-      "id": 11464783880,
-      "name": "Dutch Bros. Coffee",
-      "lat": 45.5189588,
-      "lon": -122.4960358,
-      "tags": {
-        "addr:city": "Gresham",
-        "addr:housenumber": "16222",
-        "addr:postcode": "97233",
-        "addr:state": "OR",
-        "addr:street": "Southeast Stark Street",
-        "amenity": "cafe",
-        "branch": "Gresham",
-        "brand": "Dutch Bros. Coffee",
-        "brand:wikidata": "Q5317253",
-        "cuisine": "coffee_shop",
-        "name": "Dutch Bros. Coffee",
-        "opening_hours": "Mo-Th 05:00-22:00; Fr-Sa 05:00-23:00; Su 05:30-22:00",
-        "ref": "DB025",
-        "takeaway": "only",
-        "website": "https://locations.dutchbros.com/dutch-bros-coffee-626b3dded8f1"
-      },
-      "type": "business",
-      "category": "indie-coffee"
-    },
-    {
       "id": 11643558648,
       "name": "Trackside Cafe",
       "lat": 45.5289563,
@@ -18368,36 +18163,6 @@
       "category": "indie-coffee"
     },
     {
-      "id": 39563062,
-      "name": "Dutch Bros. Coffee",
-      "lat": 45.5263733,
-      "lon": -122.6609926,
-      "tags": {
-        "addr:city": "Portland",
-        "addr:housenumber": "430",
-        "addr:postcode": "97232",
-        "addr:state": "OR",
-        "addr:street": "Northeast Lloyd Boulevard",
-        "amenity": "cafe",
-        "branch": "Portland",
-        "brand": "Dutch Bros. Coffee",
-        "brand:wikidata": "Q5317253",
-        "building": "yes",
-        "check_date": "2023-07-12",
-        "cuisine": "coffee_shop",
-        "drive_through": "yes",
-        "name": "Dutch Bros. Coffee",
-        "opening_hours": "24/7",
-        "ref": "DB256",
-        "takeaway": "only",
-        "toilets:wheelchair": "yes",
-        "website": "https://locations.dutchbros.com/dutch-bros-coffee-f5f283413f37",
-        "wheelchair": "yes"
-      },
-      "type": "business",
-      "category": "indie-coffee"
-    },
-    {
       "id": 40477942,
       "name": "Tiny's Coffee",
       "lat": 45.5126297,
@@ -18498,32 +18263,6 @@
         "building": "yes",
         "name": "Khora Coffeehouse",
         "website": "https://www.khoracoffeehouse.com"
-      },
-      "type": "business",
-      "category": "indie-coffee"
-    },
-    {
-      "id": 40943888,
-      "name": "Dutch Bros. Coffee",
-      "lat": 45.5233464,
-      "lon": -122.6936038,
-      "tags": {
-        "addr:city": "Portland",
-        "addr:housenumber": "2057",
-        "addr:postcode": "97209",
-        "addr:state": "OR",
-        "addr:street": "West Burnside Street",
-        "amenity": "cafe",
-        "branch": "Portland",
-        "brand": "Dutch Bros. Coffee",
-        "brand:wikidata": "Q5317253",
-        "building": "yes",
-        "check_date": "2023-12-02",
-        "cuisine": "coffee_shop",
-        "name": "Dutch Bros. Coffee",
-        "ref": "DB272",
-        "takeaway": "only",
-        "website": "https://locations.dutchbros.com/dutch-bros-coffee-3e14bc55986c"
       },
       "type": "business",
       "category": "indie-coffee"
@@ -19295,35 +19034,6 @@
       "category": "indie-coffee"
     },
     {
-      "id": 333211039,
-      "name": "Dutch Bros. Coffee",
-      "lat": 45.4868745,
-      "lon": -122.7333053,
-      "tags": {
-        "addr:city": "Portland",
-        "addr:housenumber": "5482",
-        "addr:postcode": "97221",
-        "addr:state": "OR",
-        "addr:street": "Southwest Beaverton Hillsdale Highway",
-        "amenity": "cafe",
-        "branch": "Portland",
-        "brand": "Dutch Bros. Coffee",
-        "brand:wikidata": "Q5317253",
-        "building": "yes",
-        "cuisine": "coffee_shop",
-        "drive_through": "yes",
-        "name": "Dutch Bros. Coffee",
-        "opening_hours": "Mo-Su 05:00-22:00; Fr,Sa 05:00-23:00",
-        "outdoor_seating": "yes",
-        "phone": "+1 503-244-7285",
-        "ref": "DB225",
-        "takeaway": "only",
-        "website": "https://locations.dutchbros.com/dutch-bros-coffee-9cc7053b13e8"
-      },
-      "type": "business",
-      "category": "indie-coffee"
-    },
-    {
       "id": 333373425,
       "name": "Rimsky-Korsakoffee House",
       "lat": 45.5177841,
@@ -19478,32 +19188,6 @@
       "category": "indie-coffee"
     },
     {
-      "id": 351108376,
-      "name": "Dutch Bros. Coffee",
-      "lat": 45.4520297,
-      "lon": -122.5794011,
-      "tags": {
-        "addr:city": "Happy Valley",
-        "addr:housenumber": "9721",
-        "addr:postcode": "97086",
-        "addr:state": "OR",
-        "addr:street": "Southeast 82nd Avenue",
-        "amenity": "cafe",
-        "branch": "Happy Valley",
-        "brand": "Dutch Bros. Coffee",
-        "brand:wikidata": "Q5317253",
-        "building": "yes",
-        "cuisine": "coffee_shop",
-        "name": "Dutch Bros. Coffee",
-        "opening_hours": "Mo-Th 05:00-22:00; Fr-Sa 05:00-23:00; Su 05:00-22:00",
-        "ref": "DB228",
-        "takeaway": "only",
-        "website": "https://locations.dutchbros.com/dutch-bros-coffee-c3cb9ced076a"
-      },
-      "type": "business",
-      "category": "indie-coffee"
-    },
-    {
       "id": 351108399,
       "name": "Twin Perks Espresso",
       "lat": 45.4522798,
@@ -19547,36 +19231,6 @@
         "outdoor_seating": "yes",
         "phone": "+1-503-573-5492",
         "website": "https://www.cafecincosietepdx.com/"
-      },
-      "type": "business",
-      "category": "indie-coffee"
-    },
-    {
-      "id": 352717750,
-      "name": "Dutch Bros. Coffee",
-      "lat": 45.4554404,
-      "lon": -122.7791953,
-      "tags": {
-        "addr:city": "Tigard",
-        "addr:housenumber": "8940",
-        "addr:postcode": "97223",
-        "addr:state": "OR",
-        "addr:street": "Southwest Hall Boulevard",
-        "amenity": "cafe",
-        "branch": "Beaverton",
-        "brand": "Dutch Bros. Coffee",
-        "brand:wikidata": "Q5317253",
-        "building": "retail",
-        "check_date": "2023-11-08",
-        "cuisine": "coffee_shop",
-        "drive_through": "yes",
-        "ele": "83.5",
-        "name": "Dutch Bros. Coffee",
-        "opening_hours": "Mo-Su 05:30-22:00; Fr,Sa 05:30-23:00",
-        "phone": "+1 503-747-7366",
-        "ref": "DB131",
-        "takeaway": "only",
-        "website": "https://locations.dutchbros.com/dutch-bros-coffee-8f4e82becf58"
       },
       "type": "business",
       "category": "indie-coffee"
@@ -19742,34 +19396,6 @@
       "category": "indie-coffee"
     },
     {
-      "id": 368225613,
-      "name": "Dutch Bros. Coffee",
-      "lat": 45.6207042,
-      "lon": -122.5647604,
-      "tags": {
-        "addr:city": "Vancouver",
-        "addr:housenumber": "10417",
-        "addr:postcode": "98664",
-        "addr:state": "WA",
-        "addr:street": "Southeast Mill Plain Boulevard",
-        "amenity": "cafe",
-        "branch": "Vancouver",
-        "brand": "Dutch Bros. Coffee",
-        "brand:wikidata": "Q5317253",
-        "building": "yes",
-        "cuisine": "coffee_shop",
-        "drive_through": "yes",
-        "name": "Dutch Bros. Coffee",
-        "opening_hours": "24/7",
-        "outdoor_seating": "yes",
-        "ref": "DB174",
-        "takeaway": "only",
-        "website": "https://locations.dutchbros.com/dutch-bros-coffee-6edf5163b1b6"
-      },
-      "type": "business",
-      "category": "indie-coffee"
-    },
-    {
       "id": 368233392,
       "name": "Our Spot",
       "lat": 45.5088138,
@@ -19788,33 +19414,6 @@
         "diet:vegan": "only",
         "ele": "10.9",
         "name": "Our Spot"
-      },
-      "type": "business",
-      "category": "indie-coffee"
-    },
-    {
-      "id": 368247207,
-      "name": "Dutch Bros. Coffee",
-      "lat": 45.5188215,
-      "lon": -122.470379,
-      "tags": {
-        "addr:city": "Portland",
-        "addr:housenumber": "18710",
-        "addr:postcode": "97233",
-        "addr:state": "OR",
-        "addr:street": "Southeast Stark Street",
-        "amenity": "cafe",
-        "brand": "Dutch Bros. Coffee",
-        "brand:wikidata": "Q5317253",
-        "building": "yes",
-        "cuisine": "coffee_shop",
-        "drive_through": "yes",
-        "height": "4.9",
-        "name": "Dutch Bros. Coffee",
-        "opening_hours": "Mo-Th 05:00-22:00; Fr,Sa 05:00-23:00; Su 05:30-22:00",
-        "ref": "DB091",
-        "takeaway": "only",
-        "website": "https://locations.dutchbros.com/dutch-bros-coffee-6554cdfc21bb"
       },
       "type": "business",
       "category": "indie-coffee"
@@ -19992,35 +19591,6 @@
       "category": "indie-coffee"
     },
     {
-      "id": 369031451,
-      "name": "Dutch Bros. Coffee",
-      "lat": 45.4354698,
-      "lon": -122.7594041,
-      "tags": {
-        "addr:city": "Tigard",
-        "addr:housenumber": "11744",
-        "addr:postcode": "97223",
-        "addr:state": "OR",
-        "addr:street": "Southwest Pacific Highway",
-        "amenity": "cafe",
-        "branch": "Tigard",
-        "brand": "Dutch Bros. Coffee",
-        "brand:wikidata": "Q5317253",
-        "building": "yes",
-        "cuisine": "coffee_shop",
-        "drive_through": "yes",
-        "ele": "65.8",
-        "name": "Dutch Bros. Coffee",
-        "opening_hours": "05:00-23:00",
-        "phone": "+1 503-620-7040",
-        "ref": "DB145",
-        "takeaway": "only",
-        "website": "https://locations.dutchbros.com/dutch-bros-coffee-b6e1496de273"
-      },
-      "type": "business",
-      "category": "indie-coffee"
-    },
-    {
       "id": 369153195,
       "name": "Black Rock Coffee",
       "lat": 45.4971772,
@@ -20107,34 +19677,6 @@
         "cuisine": "bubble_tea",
         "name": "Bubble N Tea",
         "website": "https://www.thebubblentea.com/"
-      },
-      "type": "business",
-      "category": "indie-coffee"
-    },
-    {
-      "id": 369169645,
-      "name": "Dutch Bros. Coffee",
-      "lat": 45.5038757,
-      "lon": -122.5228799,
-      "tags": {
-        "addr:city": "Portland",
-        "addr:housenumber": "13640",
-        "addr:postcode": "97236",
-        "addr:state": "OR",
-        "addr:street": "Southeast Division Street",
-        "amenity": "cafe",
-        "brand": "Dutch Bros. Coffee",
-        "brand:wikidata": "Q5317253",
-        "building": "yes",
-        "building:levels": "1",
-        "cuisine": "coffee_shop",
-        "ele": "78.0",
-        "height": "4.0",
-        "name": "Dutch Bros. Coffee",
-        "opening_hours": "Mo-Th 05:00-22:00; Fr-Sa 05:00-23:00; Su 05:30-22:00",
-        "ref": "DB090",
-        "takeaway": "only",
-        "website": "https://locations.dutchbros.com/dutch-bros-coffee-09189c3eeefc"
       },
       "type": "business",
       "category": "indie-coffee"
@@ -20228,34 +19770,6 @@
       "category": "indie-coffee"
     },
     {
-      "id": 375494061,
-      "name": "Dutch Bros. Coffee",
-      "lat": 45.6418451,
-      "lon": -122.5313418,
-      "tags": {
-        "addr:city": "Vancouver",
-        "addr:housenumber": "2610",
-        "addr:postcode": "98682",
-        "addr:state": "WA",
-        "addr:street": "Northeast 138th Avenue",
-        "amenity": "cafe",
-        "brand": "Dutch Bros. Coffee",
-        "brand:wikidata": "Q5317253",
-        "building": "yes",
-        "cuisine": "coffee_shop",
-        "internet_access": "no",
-        "name": "Dutch Bros. Coffee",
-        "opening_hours": "Su-Th 05:00-22:00; Fr-Sa 05:00-23:00",
-        "ref": "DB172",
-        "smoking": "isolated",
-        "source": "dutchbros.com",
-        "takeaway": "only",
-        "website": "https://locations.dutchbros.com/dutch-bros-coffee-330f70fc166b"
-      },
-      "type": "business",
-      "category": "indie-coffee"
-    },
-    {
       "id": 384943512,
       "name": "The Coffee Shop",
       "lat": 45.4853596,
@@ -20316,58 +19830,6 @@
         "name": "Posies",
         "opening_hours": "Mo-Fr 06:30-18:00; Sa-Su 07:30-18:00",
         "website": "https://www.posiescafe.com/"
-      },
-      "type": "business",
-      "category": "indie-coffee"
-    },
-    {
-      "id": 388798529,
-      "name": "Dutch Bros. Coffee",
-      "lat": 45.5702647,
-      "lon": -122.5462018,
-      "tags": {
-        "addr:city": "Portland",
-        "addr:housenumber": "11609",
-        "addr:postcode": "97220",
-        "addr:state": "OR",
-        "addr:street": "Northeast Glenn Widing Drive",
-        "amenity": "cafe",
-        "branch": "Portland",
-        "brand": "Dutch Bros. Coffee",
-        "brand:wikidata": "Q5317253",
-        "building": "yes",
-        "cuisine": "coffee_shop",
-        "drive_through": "yes",
-        "name": "Dutch Bros. Coffee",
-        "ref": "DB232",
-        "takeaway": "only",
-        "website": "https://locations.dutchbros.com/dutch-bros-coffee-a5021e9dedb4"
-      },
-      "type": "business",
-      "category": "indie-coffee"
-    },
-    {
-      "id": 389323431,
-      "name": "Dutch Bros. Coffee",
-      "lat": 45.6424023,
-      "lon": -122.6133377,
-      "tags": {
-        "addr:city": "Vancouver",
-        "addr:housenumber": "5700",
-        "addr:postcode": "98661",
-        "addr:state": "WA",
-        "addr:street": "Northeast 4th Plain Boulevard",
-        "amenity": "cafe",
-        "branch": "Vancouver",
-        "brand": "Dutch Bros. Coffee",
-        "brand:wikidata": "Q5317253",
-        "building": "yes",
-        "cuisine": "coffee_shop",
-        "name": "Dutch Bros. Coffee",
-        "opening_hours": "05:00-23:00",
-        "ref": "DB121",
-        "takeaway": "only",
-        "website": "https://locations.dutchbros.com/dutch-bros-coffee-20622213b133"
       },
       "type": "business",
       "category": "indie-coffee"
@@ -21316,34 +20778,6 @@
       "category": "indie-coffee"
     },
     {
-      "id": 482738176,
-      "name": "Dutch Bros. Coffee",
-      "lat": 45.4904574,
-      "lon": -122.6399882,
-      "tags": {
-        "addr:city": "Portland",
-        "addr:housenumber": "4455",
-        "addr:postcode": "97202",
-        "addr:state": "OR",
-        "addr:street": "Southeast 26th Avenue",
-        "amenity": "cafe",
-        "branch": "Portland",
-        "brand": "Dutch Bros. Coffee",
-        "brand:wikidata": "Q5317253",
-        "building": "yes",
-        "contact:website": "https://locations.dutchbros.com/dutch-bros-coffee-ac0a877c33f5",
-        "cuisine": "coffee_shop",
-        "drive_through": "yes",
-        "name": "Dutch Bros. Coffee",
-        "opening_hours": "Mo-Su 05:00-22:00; Fr,Sa 05:00-23:00",
-        "ref": "DB238",
-        "takeaway": "only",
-        "website": "https://locations.dutchbros.com/dutch-bros-coffee-7a2fa97f335b"
-      },
-      "type": "business",
-      "category": "indie-coffee"
-    },
-    {
       "id": 482785526,
       "name": "Clinton Street Coffeehouse",
       "lat": 45.5033283,
@@ -21625,31 +21059,6 @@
       "category": "indie-coffee"
     },
     {
-      "id": 510052826,
-      "name": "Dutch Bros. Coffee",
-      "lat": 45.5378614,
-      "lon": -122.6986422,
-      "tags": {
-        "addr:city": "Portland",
-        "addr:housenumber": "2110",
-        "addr:postcode": "97210",
-        "addr:state": "OR",
-        "addr:street": "Northwest 23rd Avenue",
-        "amenity": "cafe",
-        "brand": "Dutch Bros. Coffee",
-        "brand:wikidata": "Q5317253",
-        "building": "yes",
-        "cuisine": "coffee_shop",
-        "name": "Dutch Bros. Coffee",
-        "opening_hours": "Mo-Th 05:00-22:00; Fr-Sa 05:00-23:00; Su 05:00-22:00",
-        "ref": "DB234",
-        "takeaway": "only",
-        "website": "https://locations.dutchbros.com/dutch-bros-coffee-c8e438f4bd14"
-      },
-      "type": "business",
-      "category": "indie-coffee"
-    },
-    {
       "id": 515992692,
       "name": "Sweet Seductions Espresso",
       "lat": 45.5657323,
@@ -21726,32 +21135,6 @@
         "opening_hours": "Mo-We, Fr-Su 08:00-15:00; Th 08:00-14:00",
         "opening_hours:signed": "no",
         "website": "https://www.bastioncoffeeco.com"
-      },
-      "type": "business",
-      "category": "indie-coffee"
-    },
-    {
-      "id": 529271021,
-      "name": "Dutch Bros. Coffee",
-      "lat": 45.4882517,
-      "lon": -122.5938702,
-      "tags": {
-        "addr:city": "Portland",
-        "addr:housenumber": "6710",
-        "addr:postcode": "97206",
-        "addr:state": "OR",
-        "addr:street": "Southeast Foster Road",
-        "amenity": "cafe",
-        "branch": "Portland",
-        "brand": "Dutch Bros. Coffee",
-        "brand:wikidata": "Q5317253",
-        "building": "yes",
-        "cuisine": "coffee_shop",
-        "name": "Dutch Bros. Coffee",
-        "opening_hours": "Mo-Su 05:00-22:00; Fr,Sa 05:00-23:00",
-        "ref": "DB112",
-        "takeaway": "only",
-        "website": "https://locations.dutchbros.com/dutch-bros-coffee-f4fd45f2e538"
       },
       "type": "business",
       "category": "indie-coffee"
@@ -21863,31 +21246,6 @@
         "name": "T4 Tea For U",
         "shop": "tea",
         "takeaway": "yes"
-      },
-      "type": "business",
-      "category": "indie-coffee"
-    },
-    {
-      "id": 557532062,
-      "name": "Dutch Bros. Coffee",
-      "lat": 45.6163366,
-      "lon": -122.479621,
-      "tags": {
-        "addr:city": "East Vancouver",
-        "addr:housenumber": "18911",
-        "addr:postcode": "98683",
-        "addr:state": "WA",
-        "addr:street": "Southeast Mill Plain Boulevard",
-        "amenity": "cafe",
-        "brand": "Dutch Bros. Coffee",
-        "brand:wikidata": "Q5317253",
-        "building": "yes",
-        "cuisine": "coffee_shop",
-        "name": "Dutch Bros. Coffee",
-        "opening_hours": "Mo-Th 05:00-22:00; Fr-Sa 05:00-23:00; Su 05:00-22:00",
-        "ref": "DB248",
-        "takeaway": "only",
-        "website": "https://locations.dutchbros.com/dutch-bros-coffee-e3727e6a20c8"
       },
       "type": "business",
       "category": "indie-coffee"
@@ -22345,31 +21703,6 @@
         "cuisine": "coffee_shop;mexican;american;breakfast",
         "indoor": "room",
         "name": "Vesta's Cafe"
-      },
-      "type": "business",
-      "category": "indie-coffee"
-    },
-    {
-      "id": 1078401097,
-      "name": "Dutch Bros. Coffee",
-      "lat": 45.5044241,
-      "lon": -122.4842657,
-      "tags": {
-        "addr:city": "Portland",
-        "addr:housenumber": "17404",
-        "addr:postcode": "97236",
-        "addr:state": "OR",
-        "addr:street": "Southeast Division Street",
-        "amenity": "cafe",
-        "brand": "Dutch Bros. Coffee",
-        "brand:wikidata": "Q5317253",
-        "building": "yes",
-        "cuisine": "coffee_shop",
-        "name": "Dutch Bros. Coffee",
-        "opening_hours": "Mo-Tu 05:00-22:00; We 05:00-16:45; Th 10:00-22:00; Fr-Sa 05:00-23:00; Su 05:30-22:00",
-        "ref": "DB116",
-        "takeaway": "only",
-        "website": "https://locations.dutchbros.com/dutch-bros-coffee-f2970891c2ef"
       },
       "type": "business",
       "category": "indie-coffee"
