@@ -20,12 +20,15 @@ const PORTLAND_BBOX = {
     east: -122.47
 };
 
-// Chain restaurants to exclude
+// Chain restaurants and inappropriate businesses to exclude
 const EXCLUDED_CHAINS = [
+    // Fast food chains
     'subway', 'starbucks', 'mcdonald', 'dunkin', 'taco bell', 'domino',
     'burger king', 'pizza hut', 'wendy', 'dairy queen', 'little caesar',
     'kfc', 'sonic', 'chipotle', 'arby', 'papa john', 'popeyes',
-    'chick-fil-a', 'chick fil a', 'panera', 'jack in the box'
+    'chick-fil-a', 'chick fil a', 'panera', 'jack in the box',
+    // Retail chains
+    'autozone', 'bi-mart', 'bi mart', 'target', 'michael\'s', 'michaels', 'ross'
 ];
 
 // Get category definitions (same as in app.js)
@@ -113,11 +116,27 @@ function getCategoryDefinitions() {
                 out center tags;
             `.replace(/\{\{bbox\}\}/g, bbox),
             filterFn: (tags) => {
-                return tags.shop?.toLowerCase().includes('art') ||
+                // Basic category filter
+                const isCreatorSpace = tags.shop?.toLowerCase().includes('art') ||
                        tags.shop?.toLowerCase().includes('craft') ||
                        tags.craft ||
                        tags.amenity?.toLowerCase().includes('maker') ||
                        tags.amenity?.toLowerCase().includes('workshop');
+                
+                if (!isCreatorSpace) return false;
+                
+                // Exclude automotive-related shops and retail chains
+                const name = (tags.name || '').toLowerCase();
+                const automotiveKeywords = ['auto parts', 'truck parts', 'automotive', 'car parts'];
+                const excludedRetailChains = ['autozone', 'bi-mart', 'bi mart', 'target', 'michael\'s', 'michaels', 'ross'];
+                
+                // Exclude if matches automotive keywords or retail chains
+                if (automotiveKeywords.some(keyword => name.includes(keyword)) ||
+                    excludedRetailChains.some(chain => name.includes(chain))) {
+                    return false;
+                }
+                
+                return true;
             }
         },
         'music-venues': {
@@ -277,10 +296,22 @@ function getCategoryDefinitions() {
     };
 }
 
-// Check if a business should be excluded (is a chain restaurant)
+// Check if a business should be excluded (is a chain restaurant or inappropriate business)
 function isExcludedChain(business) {
     const name = (business.name || '').toLowerCase();
-    return EXCLUDED_CHAINS.some(chain => name.includes(chain));
+    
+    // Check excluded chains list
+    if (EXCLUDED_CHAINS.some(chain => name.includes(chain))) {
+        return true;
+    }
+    
+    // Exclude automotive-related businesses (especially from Creator Spaces)
+    const automotiveKeywords = ['auto parts', 'truck parts', 'automotive', 'car parts'];
+    if (automotiveKeywords.some(keyword => name.includes(keyword))) {
+        return true;
+    }
+    
+    return false;
 }
 
 // Make HTTP POST request

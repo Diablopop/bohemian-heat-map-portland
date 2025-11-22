@@ -1,15 +1,15 @@
 {
   "metadata": {
-    "generatedAt": "2025-11-22T03:40:29.560Z",
+    "generatedAt": "2025-11-22T04:33:58.806Z",
     "portlandBbox": {
       "south": 45.43,
       "west": -122.84,
       "north": 45.65,
       "east": -122.47
     },
-    "totalBusinesses": 1250,
+    "totalBusinesses": 1174,
     "categories": 12,
-    "excludedChains": 21
+    "excludedChains": 28
   },
   "businesses": [
     {
@@ -4623,21 +4623,6 @@
       "category": "creator-spaces"
     },
     {
-      "id": 2694265264,
-      "name": "AutoZone",
-      "lat": 45.5552731,
-      "lon": -122.6006328,
-      "tags": {
-        "brand": "AutoZone",
-        "brand:wikidata": "Q4826087",
-        "name": "AutoZone",
-        "shop": "car_parts",
-        "website": "https://www.autozone.com/locations/or/portland/4458-ne-cully-blvd.html"
-      },
-      "type": "business",
-      "category": "creator-spaces"
-    },
-    {
       "id": 3574372293,
       "name": "Autoloc",
       "lat": 45.5202483,
@@ -4700,42 +4685,6 @@
       "category": "creator-spaces"
     },
     {
-      "id": 3751143756,
-      "name": "Baxter Auto Parts",
-      "lat": 45.5916613,
-      "lon": -122.6806149,
-      "tags": {
-        "addr:city": "Portland",
-        "addr:housenumber": "9444",
-        "addr:postcode": "97217",
-        "addr:street": "North Whitaker Road",
-        "name": "Baxter Auto Parts",
-        "shop": "car_parts"
-      },
-      "type": "business",
-      "category": "creator-spaces"
-    },
-    {
-      "id": 3853841213,
-      "name": "Advance Auto Parts",
-      "lat": 45.6402576,
-      "lon": -122.5999665,
-      "tags": {
-        "addr:city": "Vancouver",
-        "addr:housenumber": "2507",
-        "addr:postcode": "98661",
-        "addr:street": "Northeast Andresen Road",
-        "brand": "Advance Auto Parts",
-        "brand:wikidata": "Q4686051",
-        "name": "Advance Auto Parts",
-        "shop": "car_parts",
-        "website": "https://stores.advanceautoparts.com/wa/vancouver/2507-ne-andresen-rd",
-        "wheelchair": "yes"
-      },
-      "type": "business",
-      "category": "creator-spaces"
-    },
-    {
       "id": 3972510644,
       "name": "Gallery 360",
       "lat": 45.6261593,
@@ -4743,19 +4692,6 @@
       "tags": {
         "name": "Gallery 360",
         "shop": "art"
-      },
-      "type": "business",
-      "category": "creator-spaces"
-    },
-    {
-      "id": 3972655903,
-      "name": "Baxter Auto Parts",
-      "lat": 45.6176895,
-      "lon": -122.5337223,
-      "tags": {
-        "name": "Baxter Auto Parts",
-        "opening_hours": "Mo-Fr 08:00-13:00, Sa 08:00-18:00, Su 09:00-17:00",
-        "shop": "car_parts"
       },
       "type": "business",
       "category": "creator-spaces"
@@ -4843,21 +4779,6 @@
       "category": "creator-spaces"
     },
     {
-      "id": 4210899722,
-      "name": "O'Reilly Auto Parts",
-      "lat": 45.6225347,
-      "lon": -122.5048093,
-      "tags": {
-        "brand": "O'Reilly Auto Parts",
-        "brand:wikidata": "Q7071951",
-        "name": "O'Reilly Auto Parts",
-        "shop": "car_parts",
-        "website": "https://locations.oreillyauto.com/wa/vancouver/autoparts-3851.html"
-      },
-      "type": "business",
-      "category": "creator-spaces"
-    },
-    {
       "id": 4234673106,
       "name": "Chinese Gallery",
       "lat": 45.5118604,
@@ -4892,30 +4813,6 @@
         "phone": "+1-503-292-9278",
         "shop": "art_supplies",
         "website": "https://www.anosart.org/"
-      },
-      "type": "business",
-      "category": "creator-spaces"
-    },
-    {
-      "id": 4478203546,
-      "name": "Ross",
-      "lat": 45.5333058,
-      "lon": -122.6532759,
-      "tags": {
-        "addr:city": "Portland",
-        "addr:housenumber": "1329",
-        "addr:place": "Lloyd Center",
-        "addr:postcode": "97232",
-        "addr:state": "OR",
-        "brand": "Ross",
-        "brand:wikidata": "Q3442791",
-        "level": "1",
-        "name": "Ross",
-        "official_name": "Ross Dress for Less",
-        "opening_hours": "Mo-Sa 11:00-19:00; Su 11:00-18:00",
-        "phone": "+1 503-282-2823",
-        "ref": "715",
-        "shop": "department_store"
       },
       "type": "business",
       "category": "creator-spaces"
@@ -4958,21 +4855,6 @@
       "category": "creator-spaces"
     },
     {
-      "id": 4868636025,
-      "name": "O'Reilly Auto Parts",
-      "lat": 45.518883,
-      "lon": -122.4765382,
-      "tags": {
-        "brand": "O'Reilly Auto Parts",
-        "brand:wikidata": "Q7071951",
-        "name": "O'Reilly Auto Parts",
-        "shop": "car_parts",
-        "website": "https://locations.oreillyauto.com/or/portland/autoparts-2514.html"
-      },
-      "type": "business",
-      "category": "creator-spaces"
-    },
-    {
       "id": 4999084826,
       "name": "Auto Pro Buys",
       "lat": 45.4385336,
@@ -4980,27 +4862,6 @@
       "tags": {
         "name": "Auto Pro Buys",
         "shop": "car_parts"
-      },
-      "type": "business",
-      "category": "creator-spaces"
-    },
-    {
-      "id": 4999084837,
-      "name": "AutoZone",
-      "lat": 45.4456317,
-      "lon": -122.577674,
-      "tags": {
-        "addr:city": "Happy Valley",
-        "addr:housenumber": "10722",
-        "addr:postcode": "97086",
-        "addr:state": "OR",
-        "addr:street": "Southeast 82nd Avenue",
-        "brand": "AutoZone",
-        "brand:wikidata": "Q4826087",
-        "name": "AutoZone",
-        "phone": "+1 503 353 9942",
-        "shop": "car_parts",
-        "website": "https://www.autozone.com/locations/or/happy-valley/10722-se-82nd-ave.html"
       },
       "type": "business",
       "category": "creator-spaces"
@@ -5221,24 +5082,6 @@
         "phone": "+1-503-242-4992",
         "shop": "art",
         "website": "https://www.pearl-printing.com/"
-      },
-      "type": "business",
-      "category": "creator-spaces"
-    },
-    {
-      "id": 6348334482,
-      "name": "Old Car Parts",
-      "lat": 45.4976384,
-      "lon": -122.5850572,
-      "tags": {
-        "addr:city": "Portland",
-        "addr:housenumber": "7525",
-        "addr:postcode": "97206",
-        "addr:state": "OR",
-        "addr:street": "Southeast Powell Boulevard",
-        "name": "Old Car Parts",
-        "shop": "car_parts",
-        "website": "https://www.oldgmcarparts.com/"
       },
       "type": "business",
       "category": "creator-spaces"
@@ -5490,32 +5333,6 @@
       "category": "creator-spaces"
     },
     {
-      "id": 11404462333,
-      "name": "Ross",
-      "lat": 45.4429061,
-      "lon": -122.5803403,
-      "tags": {
-        "addr:city": "Happy Valley",
-        "addr:housenumber": "11211",
-        "addr:postcode": "97086",
-        "addr:state": "OR",
-        "addr:street": "Southeast 82nd Avenue",
-        "alt_name": "Ross Dress for Less",
-        "brand": "Ross",
-        "brand:wikidata": "Q3442791",
-        "contact:phone": "+1-503-654-5732",
-        "contact:website": "https://www.rossstores.com/",
-        "name": "Ross",
-        "official_name": "Ross Dress for Less",
-        "opening_hours": "Mo-Sa 09:00-23:30; Su 09:00-22:30",
-        "phone": "+1 503-654-5732",
-        "ref": "96",
-        "shop": "department_store"
-      },
-      "type": "business",
-      "category": "creator-spaces"
-    },
-    {
       "id": 11687944631,
       "name": "Artistic Portland Gallery",
       "lat": 45.548161,
@@ -5529,20 +5346,6 @@
         "opening_hours": "Su-Th 10:00-18:00; Fr,Sa 10:00-20:00",
         "shop": "art",
         "website": "https://artisticportlandgallery.com"
-      },
-      "type": "business",
-      "category": "creator-spaces"
-    },
-    {
-      "id": 12264289824,
-      "name": "O'Reilly Auto Parts",
-      "lat": 45.6438203,
-      "lon": -122.5987718,
-      "tags": {
-        "brand": "O'Reilly Auto Parts",
-        "brand:wikidata": "Q7071951",
-        "name": "O'Reilly Auto Parts",
-        "shop": "car_parts"
       },
       "type": "business",
       "category": "creator-spaces"
@@ -5622,31 +5425,6 @@
         "name": "The Lippman Company",
         "shop": "party",
         "website": "https://www.lippmancompany.com/"
-      },
-      "type": "business",
-      "category": "creator-spaces"
-    },
-    {
-      "id": 33502889,
-      "name": "Target",
-      "lat": 45.4536978,
-      "lon": -122.7792066,
-      "tags": {
-        "addr:city": "Tigard",
-        "addr:housenumber": "9009",
-        "addr:postcode": "97223",
-        "addr:state": "OR",
-        "addr:street": "Southwest Hall Boulevard",
-        "addr:unit": "120",
-        "brand": "Target",
-        "brand:wikidata": "Q1046951",
-        "building": "yes",
-        "name": "Target",
-        "opening_hours": "Mo-Su 08:00-23:00; Sa 08:00-24:00",
-        "phone": "+1 503-624-0273",
-        "ref": "345",
-        "shop": "department_store",
-        "website": "https://www.target.com/sl/washington-square/345"
       },
       "type": "business",
       "category": "creator-spaces"
@@ -5742,95 +5520,6 @@
       "category": "creator-spaces"
     },
     {
-      "id": 71282271,
-      "name": "Target",
-      "lat": 45.5260418,
-      "lon": -122.8081119,
-      "tags": {
-        "addr:city": "Portland",
-        "addr:housenumber": "12675",
-        "addr:postcode": "97229",
-        "addr:state": "OR",
-        "addr:street": "Northwest Cornell Road",
-        "branch": "Cedar Mill",
-        "brand": "Target",
-        "brand:wikidata": "Q1046951",
-        "building": "yes",
-        "building:levels": "1",
-        "name": "Target",
-        "old_name": "Bales Marketplace",
-        "opening_hours": "08:00-22:00",
-        "phone": "+1 503-403-3619",
-        "proposed:shop": "department_store",
-        "shop": "department_store",
-        "source": "https://corporate.target.com/about/locations/upcoming-stores",
-        "website": "https://www.target.com/sl/cedar-mill/3413"
-      },
-      "type": "business",
-      "category": "creator-spaces"
-    },
-    {
-      "id": 97789396,
-      "name": "NAPA Auto Parts",
-      "lat": 45.4884867,
-      "lon": -122.8006756,
-      "tags": {
-        "addr:city": "Beaverton",
-        "addr:housenumber": "12050",
-        "addr:postcode": "97005",
-        "addr:state": "OR",
-        "addr:street": "Southwest Canyon Road",
-        "brand": "NAPA Auto Parts",
-        "brand:wikidata": "Q6970842",
-        "building": "yes",
-        "name": "NAPA Auto Parts",
-        "opening_hours": "Mo-Fr 07:30-19:00; Sa 08:00-18:00; Su 09:00-17:00",
-        "operator": "Beaverton Auto Parts",
-        "phone": "+1-503-644-1166",
-        "shop": "car_parts",
-        "website": "https://beavertonautoparts.com/"
-      },
-      "type": "business",
-      "category": "creator-spaces"
-    },
-    {
-      "id": 109873720,
-      "name": "NAPA Auto Parts",
-      "lat": 45.6377731,
-      "lon": -122.6008337,
-      "tags": {
-        "brand": "NAPA Auto Parts",
-        "brand:wikidata": "Q6970842",
-        "building": "yes",
-        "name": "NAPA Auto Parts",
-        "shop": "car_parts",
-        "source": "Bing"
-      },
-      "type": "business",
-      "category": "creator-spaces"
-    },
-    {
-      "id": 111879333,
-      "name": "O'Reilly Auto Parts",
-      "lat": 45.4978095,
-      "lon": -122.8074986,
-      "tags": {
-        "addr:city": "Beaverton",
-        "addr:housenumber": "3050",
-        "addr:postcode": "97005",
-        "addr:state": "OR",
-        "addr:street": "Southwest Cedar Hills Boulevard",
-        "brand": "O'Reilly Auto Parts",
-        "brand:wikidata": "Q7071951",
-        "building": "yes",
-        "name": "O'Reilly Auto Parts",
-        "shop": "car_parts",
-        "website": "https://locations.oreillyauto.com/or/beaverton/autoparts-2513.html"
-      },
-      "type": "business",
-      "category": "creator-spaces"
-    },
-    {
       "id": 113700399,
       "name": "Car Toys",
       "lat": 45.4367469,
@@ -5871,33 +5560,6 @@
       "category": "creator-spaces"
     },
     {
-      "id": 113970047,
-      "name": "Ross",
-      "lat": 45.4566258,
-      "lon": -122.7864991,
-      "tags": {
-        "addr:city": "Beaverton",
-        "addr:housenumber": "8815",
-        "addr:postcode": "97008",
-        "addr:state": "OR",
-        "addr:street": "Southwest Cascade Avenue",
-        "brand": "Ross",
-        "brand:wikidata": "Q3442791",
-        "building": "yes",
-        "check_date": "2023-12-27",
-        "internet_access": "no",
-        "name": "Ross",
-        "official_name": "Ross Dress for Less",
-        "opening_hours": "Mo-Th 09:00-23:30; Fr,Sa 08:30-23:30; Su 08:30-22:30",
-        "phone": "+1 503-641-2185",
-        "ref": "1240",
-        "shop": "department_store",
-        "website": "https://www.rossstores.com/"
-      },
-      "type": "business",
-      "category": "creator-spaces"
-    },
-    {
       "id": 113970048,
       "name": "Burlington",
       "lat": 45.4546019,
@@ -5923,80 +5585,6 @@
         "shop": "department_store",
         "toilets": "yes",
         "website": "https://stores.burlington.com/or/beaverton/118"
-      },
-      "type": "business",
-      "category": "creator-spaces"
-    },
-    {
-      "id": 114786128,
-      "name": "Michaels",
-      "lat": 45.570907,
-      "lon": -122.5424704,
-      "tags": {
-        "addr:city": "Portland",
-        "addr:housenumber": "11719",
-        "addr:postcode": "97220",
-        "addr:state": "OR",
-        "addr:street": "Northeast Glenn Widing Drive",
-        "brand": "Michaels",
-        "brand:wikidata": "Q6835667",
-        "building": "yes",
-        "contact:website": "https://locations.michaels.com/OR/Portland/9967/",
-        "height": "8.0",
-        "name": "Michaels",
-        "opening_hours": "Mo-Sa 09:00-21:00; Su 10:00-19:00",
-        "phone": "+1 503-256-5466",
-        "ref": "9967",
-        "shop": "craft",
-        "website": "https://locations.michaels.com/or/portland/9967"
-      },
-      "type": "business",
-      "category": "creator-spaces"
-    },
-    {
-      "id": 114786138,
-      "name": "Target",
-      "lat": 45.5770374,
-      "lon": -122.56503,
-      "tags": {
-        "addr:city": "Portland",
-        "addr:housenumber": "9401",
-        "addr:postcode": "97220",
-        "addr:state": "OR",
-        "addr:street": "Northeast Cascades Parkway",
-        "brand": "Target",
-        "brand:wikidata": "Q1046951",
-        "building": "yes",
-        "name": "Target",
-        "opening_hours": "08:00-22:00",
-        "phone": "+1 971-230-1930",
-        "shop": "department_store",
-        "toilets": "yes",
-        "website": "https://www.target.com/sl/portland-ne/2523"
-      },
-      "type": "business",
-      "category": "creator-spaces"
-    },
-    {
-      "id": 115712539,
-      "name": "Bi-Mart",
-      "lat": 45.4802678,
-      "lon": -122.6179705,
-      "tags": {
-        "addr:city": "Portland",
-        "addr:housenumber": "4315",
-        "addr:postcode": "97206",
-        "addr:state": "OR",
-        "addr:street": "Southeast Woodstock Boulevard",
-        "brand": "Bi-Mart",
-        "brand:wikidata": "Q4902331",
-        "building": "yes",
-        "name": "Bi-Mart",
-        "opening_hours": "Mo-Fr 09:00-20:00; Sa 09:00-18:00; Su 09:00-18:00",
-        "phone": "+1 503-771-1001",
-        "ref": "653",
-        "shop": "department_store",
-        "website": "https://www.bimart.com/"
       },
       "type": "business",
       "category": "creator-spaces"
@@ -6062,51 +5650,6 @@
       "category": "creator-spaces"
     },
     {
-      "id": 167219995,
-      "name": "AutoZone",
-      "lat": 45.526205,
-      "lon": -122.8145736,
-      "tags": {
-        "addr:city": "Portland",
-        "addr:housenumber": "825",
-        "addr:postcode": "97229",
-        "addr:state": "OR",
-        "addr:street": "Northwest Murray Boulevard",
-        "brand": "AutoZone",
-        "brand:wikidata": "Q4826087",
-        "building": "yes",
-        "name": "AutoZone",
-        "shop": "car_parts",
-        "website": "https://www.autozone.com/locations/or/portland/825-nw-murray-blvd.html"
-      },
-      "type": "business",
-      "category": "creator-spaces"
-    },
-    {
-      "id": 183948076,
-      "name": "Bi-Mart",
-      "lat": 45.4856918,
-      "lon": -122.7811689,
-      "tags": {
-        "addr:city": "Beaverton",
-        "addr:housenumber": "4750",
-        "addr:postcode": "97005",
-        "addr:state": "OR",
-        "addr:street": "Southwest Western Avenue",
-        "brand": "Bi-Mart",
-        "brand:wikidata": "Q4902331",
-        "building": "yes",
-        "name": "Bi-Mart",
-        "opening_hours": "Mo-Fr 09:00-20:00; Sa 09:00-18:00; Su 10:00-18:00",
-        "phone": "+1-503-626-5070",
-        "ref": "662",
-        "shop": "department_store",
-        "website": "https://www.bimart.com/"
-      },
-      "type": "business",
-      "category": "creator-spaces"
-    },
-    {
       "id": 187116603,
       "name": "Burlington",
       "lat": 45.6107349,
@@ -6135,59 +5678,6 @@
       "category": "creator-spaces"
     },
     {
-      "id": 187122760,
-      "name": "Michaels",
-      "lat": 45.6131984,
-      "lon": -122.6884469,
-      "tags": {
-        "addr:city": "Portland",
-        "addr:housenumber": "12255",
-        "addr:postcode": "97217",
-        "addr:state": "OR",
-        "addr:street": "North Starlight Avenue",
-        "brand": "Michaels",
-        "brand:wikidata": "Q6835667",
-        "building": "yes",
-        "contact:phone": "+1-503-285-0218",
-        "contact:website": "https://locations.michaels.com/OR/Portland/5725/",
-        "height": "7.6",
-        "name": "Michaels",
-        "opening_hours": "Mo-Sa 09:00-21:00; Su 10:00-19:00",
-        "phone": "+1 503-285-0218",
-        "ref": "5725",
-        "shop": "craft",
-        "website": "https://locations.michaels.com/or/portland/5725"
-      },
-      "type": "business",
-      "category": "creator-spaces"
-    },
-    {
-      "id": 187124540,
-      "name": "Target",
-      "lat": 45.6135379,
-      "lon": -122.6824659,
-      "tags": {
-        "addr:city": "Portland",
-        "addr:housenumber": "1555",
-        "addr:postcode": "97217",
-        "addr:state": "OR",
-        "addr:street": "North Tomahawk Island Drive",
-        "brand": "Target",
-        "brand:wikidata": "Q1046951",
-        "building": "yes",
-        "internet_access": "wlan",
-        "internet_access:fee": "no",
-        "name": "Target",
-        "opening_hours": "Mo-Sa 08:00-23:00; Su 08:00-22:00",
-        "phone": "+1 503-205-9109",
-        "shop": "department_store",
-        "website": "https://www.target.com/sl/portland-nw/2779",
-        "wheelchair": "yes"
-      },
-      "type": "business",
-      "category": "creator-spaces"
-    },
-    {
       "id": 207429737,
       "name": "Blick Art Materials",
       "lat": 45.5267415,
@@ -6206,30 +5696,6 @@
         "phone": "+1-503-223-3724",
         "shop": "craft",
         "website": "https://www.dickblick.com/"
-      },
-      "type": "business",
-      "category": "creator-spaces"
-    },
-    {
-      "id": 210897941,
-      "name": "Advance Auto Parts",
-      "lat": 45.497932,
-      "lon": -122.6122849,
-      "tags": {
-        "addr:city": "Portland",
-        "addr:housenumber": "4909",
-        "addr:postcode": "97206",
-        "addr:state": "OR",
-        "addr:street": "Southeast Powell Boulevard",
-        "brand": "Advance Auto Parts",
-        "brand:wikidata": "Q4686051",
-        "building": "retail",
-        "building:levels": "1",
-        "name": "Advance Auto Parts",
-        "opening_hours": "Mo-Sa 07:30-21:00; Su 09:00-19:00",
-        "phone": "+1-971-230-5597",
-        "shop": "car_parts",
-        "website": "https://stores.advanceautoparts.com/or/portland/4909-south-east-powell-boulevard"
       },
       "type": "business",
       "category": "creator-spaces"
@@ -6256,54 +5722,6 @@
       "category": "creator-spaces"
     },
     {
-      "id": 246579688,
-      "name": "Target",
-      "lat": 45.6170918,
-      "lon": -122.5058494,
-      "tags": {
-        "addr:city": "Vancouver",
-        "addr:housenumber": "16200;616",
-        "addr:postcode": "98684",
-        "addr:state": "WA",
-        "addr:street": "Southeast Mill Plain Boulevard;Southeast 164th Avenue",
-        "brand": "Target",
-        "brand:wikidata": "Q1046951",
-        "building": "yes",
-        "name": "Target",
-        "opening_hours": "08:00-22:00",
-        "operator": "Target",
-        "phone": "+1-360-449-6420",
-        "shop": "department_store",
-        "website": "https://www.target.com/sl/vancouver-east/1444"
-      },
-      "type": "business",
-      "category": "creator-spaces"
-    },
-    {
-      "id": 260869578,
-      "name": "O'Reilly Auto Parts",
-      "lat": 45.5223691,
-      "lon": -122.6603808,
-      "tags": {
-        "addr:city": "Portland",
-        "addr:housenumber": "30",
-        "addr:postcode": "97214",
-        "addr:state": "OR",
-        "addr:street": "Southeast Grand Avenue",
-        "brand": "O'Reilly Auto Parts",
-        "brand:wikidata": "Q7071951",
-        "building": "yes",
-        "contact:phone": "+1-503-232-9145",
-        "contact:website": "https://locations.oreillyauto.com/or/portland/autoparts-2518.html",
-        "name": "O'Reilly Auto Parts",
-        "opening_hours": "Mo-Sa 07:30-20:00; Su 08:00-19:00",
-        "ref": "2518",
-        "shop": "car_parts"
-      },
-      "type": "business",
-      "category": "creator-spaces"
-    },
-    {
       "id": 261138680,
       "name": "Rack Attack",
       "lat": 45.5184268,
@@ -6320,28 +5738,6 @@
         "phone": "+1-971-279-5182",
         "shop": "car_parts",
         "website": "https://www.rackattack.com/"
-      },
-      "type": "business",
-      "category": "creator-spaces"
-    },
-    {
-      "id": 279003869,
-      "name": "AutoZone",
-      "lat": 45.6406374,
-      "lon": -122.620257,
-      "tags": {
-        "addr:city": "Vancouver",
-        "addr:housenumber": "5000",
-        "addr:postcode": "98661",
-        "addr:state": "WA",
-        "addr:street": "East Fourth Plain Boulevard",
-        "brand": "AutoZone",
-        "brand:wikidata": "Q4826087",
-        "building": "yes",
-        "name": "AutoZone",
-        "phone": "+1-360-695-0026",
-        "shop": "car_parts",
-        "website": "https://www.autozone.com/locations/wa/vancouver/5000-e-4th-plain-blvd.html"
       },
       "type": "business",
       "category": "creator-spaces"
@@ -6366,53 +5762,6 @@
         "opening_hours": "Mo-Th 09:30-21:30; Fr,Sa 09:00-22:00; Su 10:00-20:00",
         "shop": "department_store",
         "toilets": "yes"
-      },
-      "type": "business",
-      "category": "creator-spaces"
-    },
-    {
-      "id": 283704548,
-      "name": "Ross",
-      "lat": 45.5744708,
-      "lon": -122.5582281,
-      "tags": {
-        "addr:city": "Portland",
-        "addr:housenumber": "10041",
-        "addr:postcode": "97220",
-        "addr:state": "OR",
-        "addr:street": "Northeast Cascades Parkway",
-        "brand": "Ross",
-        "brand:wikidata": "Q3442791",
-        "building": "yes",
-        "name": "Ross",
-        "official_name": "Ross Dress for Less",
-        "opening_hours": "Mo-Su 09:00-23:30; Fr,Sa 08:30-23:30",
-        "phone": "+1 503-249-4187",
-        "ref": "1157",
-        "shop": "department_store",
-        "website": "https://www.rossstores.com/"
-      },
-      "type": "business",
-      "category": "creator-spaces"
-    },
-    {
-      "id": 295935931,
-      "name": "Raleigh Hills Automotive",
-      "lat": 45.4861416,
-      "lon": -122.7239865,
-      "tags": {
-        "addr:city": "Portland",
-        "addr:housenumber": "4545",
-        "addr:postcode": "97221",
-        "addr:state": "OR",
-        "addr:street": "Southwest Beaverton Hillsdale Highway",
-        "brand": "NAPA Auto Parts",
-        "brand:wikidata": "Q6970842",
-        "building": "yes",
-        "name": "Raleigh Hills Automotive",
-        "phone": "+1-503-246-8676",
-        "shop": "car_parts",
-        "website": "https://raleighhillsautomotive.com/"
       },
       "type": "business",
       "category": "creator-spaces"
@@ -6461,30 +5810,6 @@
         "ref": "1108",
         "shop": "department_store",
         "website": "https://www.kohls.com/stores/or/clackamas-1108.shtml"
-      },
-      "type": "business",
-      "category": "creator-spaces"
-    },
-    {
-      "id": 304523028,
-      "name": "Target",
-      "lat": 45.4316158,
-      "lon": -122.5701314,
-      "tags": {
-        "addr:city": "Clackamas",
-        "addr:housenumber": "9000",
-        "addr:postcode": "97015",
-        "addr:state": "OR",
-        "addr:street": "Southeast Sunnyside Road",
-        "brand": "Target",
-        "brand:wikidata": "Q1046951",
-        "building": "retail",
-        "name": "Target",
-        "opening_hours": "Mo-Su 07:00-23:00; Fr,Sa 07:00-24:00",
-        "phone": "+1-503-659-1057",
-        "ref": "346",
-        "shop": "department_store",
-        "website": "https://www.target.com/sl/clackamas/346"
       },
       "type": "business",
       "category": "creator-spaces"
@@ -6551,32 +5876,6 @@
         "phone": "+1-503-747-7278",
         "shop": "craft",
         "website": "https://www.ceramicafenw.com/",
-        "wheelchair": "yes"
-      },
-      "type": "business",
-      "category": "creator-spaces"
-    },
-    {
-      "id": 305101411,
-      "name": "Ross",
-      "lat": 45.4958595,
-      "lon": -122.8109142,
-      "tags": {
-        "addr:city": "Beaverton",
-        "addr:housenumber": "3255",
-        "addr:postcode": "97005",
-        "addr:state": "OR",
-        "addr:street": "Southwest Cedar Hills Boulevard",
-        "addr:unit": "125",
-        "brand": "Ross",
-        "brand:wikidata": "Q3442791",
-        "name": "Ross",
-        "official_name": "Ross Dress for Less",
-        "opening_hours": "Mo-Th 08:00-23:00; Fr-Sa 08:00-24:00; Su 09:00-23:00",
-        "phone": "+1 503-643-3909",
-        "ref": "1038",
-        "shop": "department_store",
-        "website": "https://www.rossstores.com/",
         "wheelchair": "yes"
       },
       "type": "business",
@@ -6734,52 +6033,6 @@
       "category": "creator-spaces"
     },
     {
-      "id": 353556892,
-      "name": "Ross",
-      "lat": 45.6141046,
-      "lon": -122.6839524,
-      "tags": {
-        "addr:city": "Portland",
-        "addr:housenumber": "1705",
-        "addr:postcode": "97217",
-        "addr:state": "OR",
-        "addr:street": "North Tomahawk Island Drive",
-        "brand": "Ross",
-        "brand:wikidata": "Q3442791",
-        "building": "yes",
-        "ele": "10.3",
-        "height": "7.8",
-        "name": "Ross",
-        "official_name": "Ross Dress for Less",
-        "opening_hours": "Mo-Th 09:00-23:00; Fr,Sa 08:30-23:30; Su 09:00-22:30",
-        "phone": "+1 503-285-4912",
-        "ref": "1525",
-        "shop": "department_store",
-        "website": "https://www.rossstores.com/"
-      },
-      "type": "business",
-      "category": "creator-spaces"
-    },
-    {
-      "id": 355389223,
-      "name": "Automotive Products",
-      "lat": 45.5105059,
-      "lon": -122.6602748,
-      "tags": {
-        "addr:city": "Portland",
-        "addr:housenumber": "1700",
-        "addr:postcode": "97214",
-        "addr:state": "OR",
-        "addr:street": "Southeast Grand Avenue",
-        "building": "yes",
-        "name": "Automotive Products",
-        "shop": "car_parts",
-        "website": "http://www.automotiveproductsinc.com/"
-      },
-      "type": "business",
-      "category": "creator-spaces"
-    },
-    {
       "id": 355389235,
       "name": "Auto Plus",
       "lat": 45.5110177,
@@ -6801,26 +6054,6 @@
       "category": "creator-spaces"
     },
     {
-      "id": 355777042,
-      "name": "Baxter Auto Parts",
-      "lat": 45.4434808,
-      "lon": -122.7433677,
-      "tags": {
-        "addr:city": "Tigard",
-        "addr:housenumber": "11415",
-        "addr:postcode": "97223",
-        "addr:state": "OR",
-        "addr:street": "Southwest Pacific Highway",
-        "building": "yes",
-        "name": "Baxter Auto Parts",
-        "phone": "503-246-9805",
-        "shop": "car_parts",
-        "website": "http://www.baxterautopartsevents.com/"
-      },
-      "type": "business",
-      "category": "creator-spaces"
-    },
-    {
       "id": 363266019,
       "name": "Blick Art Materials",
       "lat": 45.5001692,
@@ -6837,29 +6070,6 @@
         "phone": "+1-503-646-9347",
         "shop": "craft",
         "website": "https://www.dickblick.com/"
-      },
-      "type": "business",
-      "category": "creator-spaces"
-    },
-    {
-      "id": 367195858,
-      "name": "NAPA Auto Parts",
-      "lat": 45.5805095,
-      "lon": -122.6605187,
-      "tags": {
-        "addr:city": "Portland",
-        "addr:housenumber": "430",
-        "addr:postcode": "97211",
-        "addr:state": "OR",
-        "addr:street": "Northeast Columbia Boulevard",
-        "brand": "NAPA Auto Parts",
-        "brand:wikidata": "Q6970842",
-        "building": "yes",
-        "building:levels": "1",
-        "contact:website": "https://www.napaonline.com/en/or/portland/store/26173",
-        "height": "6.2",
-        "name": "NAPA Auto Parts",
-        "shop": "car_parts"
       },
       "type": "business",
       "category": "creator-spaces"
@@ -6913,27 +6123,6 @@
       "category": "creator-spaces"
     },
     {
-      "id": 368225631,
-      "name": "O'Reilly Auto Parts",
-      "lat": 45.6210901,
-      "lon": -122.550785,
-      "tags": {
-        "addr:city": "Vancouver",
-        "addr:housenumber": "11808",
-        "addr:postcode": "98684",
-        "addr:state": "WA",
-        "addr:street": "Southeast Mill Plain Boulevard",
-        "brand": "O'Reilly Auto Parts",
-        "brand:wikidata": "Q7071951",
-        "building": "yes",
-        "name": "O'Reilly Auto Parts",
-        "shop": "car_parts",
-        "website": "https://locations.oreillyauto.com/wa/vancouver/autoparts-2524.html"
-      },
-      "type": "business",
-      "category": "creator-spaces"
-    },
-    {
       "id": 368234150,
       "name": "Northwest Battery Supply",
       "lat": 45.5161925,
@@ -6953,34 +6142,6 @@
         "phone": "+1-503-232-9002",
         "shop": "car_parts",
         "website": "https://www.batteryxchange.com/"
-      },
-      "type": "business",
-      "category": "creator-spaces"
-    },
-    {
-      "id": 368255891,
-      "name": "Bi-Mart",
-      "lat": 45.5341816,
-      "lon": -122.5356981,
-      "tags": {
-        "addr:city": "Portland",
-        "addr:housenumber": "12321",
-        "addr:postcode": "97230",
-        "addr:state": "OR",
-        "addr:street": "Northeast Halsey Street",
-        "brand": "Bi-Mart",
-        "brand:wikidata": "Q4902331",
-        "building": "yes",
-        "building:levels": "1",
-        "check_date": "2024-10-21",
-        "ele": "91.0",
-        "height": "8.7",
-        "name": "Bi-Mart",
-        "opening_hours": "Mo-Fr 09:00-20:00; Sa-Su 09:00-18:00",
-        "phone": "+1-503-257-3007",
-        "ref": "651",
-        "shop": "department_store",
-        "website": "https://www.bimart.com/"
       },
       "type": "business",
       "category": "creator-spaces"
@@ -7028,29 +6189,6 @@
         "name:fa": "گروه هافمن",
         "shop": "car_parts",
         "website": "https://www.thehoffmangroup.com/"
-      },
-      "type": "business",
-      "category": "creator-spaces"
-    },
-    {
-      "id": 368971602,
-      "name": "Advance Auto Parts",
-      "lat": 45.5170878,
-      "lon": -122.5381778,
-      "tags": {
-        "addr:city": "Portland",
-        "addr:housenumber": "727",
-        "addr:postcode": "97233",
-        "addr:street": "Southeast 122nd Avenue",
-        "brand": "Advance Auto Parts",
-        "brand:wikidata": "Q4686051",
-        "building": "yes",
-        "building:levels": "1",
-        "ele": "93.1",
-        "height": "5.1",
-        "name": "Advance Auto Parts",
-        "shop": "car_parts",
-        "website": "https://stores.advanceautoparts.com/or/portland/727-se-122nd-ave"
       },
       "type": "business",
       "category": "creator-spaces"
@@ -7185,26 +6323,6 @@
       "category": "creator-spaces"
     },
     {
-      "id": 369761773,
-      "name": "Baxter Auto Parts",
-      "lat": 45.4893404,
-      "lon": -122.5782803,
-      "tags": {
-        "addr:city": "Portland",
-        "addr:housenumber": "4552",
-        "addr:postcode": "97266",
-        "addr:street": "Southeast 82nd Avenue",
-        "building": "yes",
-        "building:levels": "1",
-        "ele": "74.3",
-        "height": "5.6",
-        "name": "Baxter Auto Parts",
-        "shop": "car_parts"
-      },
-      "type": "business",
-      "category": "creator-spaces"
-    },
-    {
       "id": 369938068,
       "name": "Cascadia Motors Service Center",
       "lat": 45.4651688,
@@ -7219,27 +6337,6 @@
         "contact:website": "https://www.cascadiamotors.com/map-hours-directions-cars-trucks-dealership-hours/",
         "height": "6.1",
         "name": "Cascadia Motors Service Center",
-        "shop": "car_parts"
-      },
-      "type": "business",
-      "category": "creator-spaces"
-    },
-    {
-      "id": 370790160,
-      "name": "O'Reilly Auto Parts",
-      "lat": 45.4599778,
-      "lon": -122.5794529,
-      "tags": {
-        "addr:city": "Happy Valley",
-        "addr:housenumber": "8703",
-        "addr:postcode": "97086",
-        "addr:street": "Southeast 82nd Avenue",
-        "brand": "O'Reilly Auto Parts",
-        "brand:wikidata": "Q7071951",
-        "building": "yes",
-        "contact:website": "https://locations.oreillyauto.com/or/portland/autoparts-2965.html",
-        "height": "6.6",
-        "name": "O'Reilly Auto Parts",
         "shop": "car_parts"
       },
       "type": "business",
@@ -7309,53 +6406,6 @@
       "category": "creator-spaces"
     },
     {
-      "id": 405001738,
-      "name": "Target",
-      "lat": 45.5155803,
-      "lon": -122.5621639,
-      "tags": {
-        "addr:city": "Portland",
-        "addr:housenumber": "9800",
-        "addr:postcode": "97216",
-        "addr:state": "OR",
-        "addr:street": "Southeast Washington Street",
-        "brand": "Target",
-        "brand:wikidata": "Q1046951",
-        "building": "yes",
-        "internet_access": "wlan",
-        "internet_access:fee": "no",
-        "name": "Target",
-        "opening_hours": "08:00-22:00",
-        "phone": "+1 503-252-5850",
-        "shop": "department_store",
-        "toilets": "yes",
-        "website": "https://www.target.com/sl/portland-east-washington-street/1419"
-      },
-      "type": "business",
-      "category": "creator-spaces"
-    },
-    {
-      "id": 408140937,
-      "name": "NAPA Auto Parts",
-      "lat": 45.5175169,
-      "lon": -122.6563268,
-      "tags": {
-        "addr:city": "Portland",
-        "addr:housenumber": "730",
-        "addr:postcode": "97214",
-        "addr:state": "OR",
-        "addr:street": "Southeast 9th Avenue",
-        "brand": "NAPA Auto Parts",
-        "brand:wikidata": "Q6970842",
-        "building": "yes",
-        "contact:website": "https://www.napaonline.com/en/or/portland/store/23943",
-        "name": "NAPA Auto Parts",
-        "shop": "car_parts"
-      },
-      "type": "business",
-      "category": "creator-spaces"
-    },
-    {
       "id": 408670820,
       "name": "Johnny Law Motors",
       "lat": 45.5202336,
@@ -7373,27 +6423,6 @@
         "name:fa": "جانی لا موتورز",
         "shop": "car_parts",
         "website": "https://www.johnnylawmotors.com/"
-      },
-      "type": "business",
-      "category": "creator-spaces"
-    },
-    {
-      "id": 410102935,
-      "name": "O'Reilly Auto Parts",
-      "lat": 45.560823,
-      "lon": -122.6611811,
-      "tags": {
-        "addr:city": "Portland",
-        "addr:housenumber": "5212",
-        "addr:postcode": "97211",
-        "addr:state": "OR",
-        "addr:street": "Northeast Martin Luther King Junior Boulevard",
-        "brand": "O'Reilly Auto Parts",
-        "brand:wikidata": "Q7071951",
-        "building": "yes",
-        "contact:website": "https://locations.oreillyauto.com/or/portland/autoparts-3209.html",
-        "name": "O'Reilly Auto Parts",
-        "shop": "car_parts"
       },
       "type": "business",
       "category": "creator-spaces"
@@ -7541,54 +6570,6 @@
       "category": "creator-spaces"
     },
     {
-      "id": 414693393,
-      "name": "Michaels",
-      "lat": 45.6149523,
-      "lon": -122.5007164,
-      "tags": {
-        "addr:city": "Vancouver",
-        "addr:housenumber": "16601",
-        "addr:postcode": "98684",
-        "addr:state": "WA",
-        "addr:street": "Southeast Mill Plain Boulevard",
-        "brand": "Michaels",
-        "brand:wikidata": "Q6835667",
-        "building": "yes",
-        "name": "Michaels",
-        "opening_hours": "Mo-Sa 09:00-21:00; Su 10:00-19:00",
-        "phone": "+1-360-892-4494",
-        "ref": "6820",
-        "shop": "craft",
-        "website": "https://locations.michaels.com/wa/vancouver/6820"
-      },
-      "type": "business",
-      "category": "creator-spaces"
-    },
-    {
-      "id": 414693395,
-      "name": "Ross",
-      "lat": 45.6151328,
-      "lon": -122.5001599,
-      "tags": {
-        "addr:city": "Vancouver",
-        "addr:housenumber": "16611",
-        "addr:postcode": "98684-8948",
-        "addr:state": "WA",
-        "addr:street": "Southeast Mill Plain Boulevard",
-        "brand": "Ross",
-        "brand:wikidata": "Q3442791",
-        "building": "yes",
-        "name": "Ross",
-        "official_name": "Ross Dress for Less",
-        "opening_hours": "Mo-Th 09:00-22:00; Fr-Sa 09:00-22:30; Su 09:30-22:00",
-        "phone": "+1-360-253-3004",
-        "ref": "1705",
-        "shop": "department_store"
-      },
-      "type": "business",
-      "category": "creator-spaces"
-    },
-    {
       "id": 420434117,
       "name": "G&R Auto Wreckers",
       "lat": 45.6023536,
@@ -7625,28 +6606,6 @@
         "name": "Beads at Dusti Creek",
         "shop": "craft",
         "website": "https://www.beadsatdusticreek.com/"
-      },
-      "type": "business",
-      "category": "creator-spaces"
-    },
-    {
-      "id": 421376681,
-      "name": "O'Reilly Auto Parts",
-      "lat": 45.4979929,
-      "lon": -122.6214327,
-      "tags": {
-        "addr:city": "Portland",
-        "addr:housenumber": "3955",
-        "addr:postcode": "97202",
-        "addr:state": "OR",
-        "addr:street": "Southeast Powell Boulevard",
-        "brand": "O'Reilly Auto Parts",
-        "brand:wikidata": "Q7071951",
-        "building": "yes",
-        "contact:website": "https://locations.oreillyauto.com/or/portland/autoparts-2710.html",
-        "name": "O'Reilly Auto Parts",
-        "ref": "2710",
-        "shop": "car_parts"
       },
       "type": "business",
       "category": "creator-spaces"
@@ -7697,27 +6656,6 @@
       "category": "creator-spaces"
     },
     {
-      "id": 427480202,
-      "name": "Bi-Mart",
-      "lat": 45.6406193,
-      "lon": -122.6254887,
-      "tags": {
-        "addr:city": "Vancouver",
-        "addr:housenumber": "2601",
-        "addr:state": "WA",
-        "addr:street": "Falk Road",
-        "brand": "Bi-Mart",
-        "brand:wikidata": "Q4902331",
-        "building": "yes",
-        "name": "Bi-Mart",
-        "phone": "+1-360-695-6333",
-        "shop": "department_store",
-        "website": "https://www.bimart.com/our-locations/650-Vancouver"
-      },
-      "type": "business",
-      "category": "creator-spaces"
-    },
-    {
       "id": 428700191,
       "name": "Lauro Russo Gallery",
       "lat": 45.5287129,
@@ -7745,84 +6683,6 @@
       "tags": {
         "building": "yes",
         "shop": "car_parts"
-      },
-      "type": "business",
-      "category": "creator-spaces"
-    },
-    {
-      "id": 435675278,
-      "name": "O'Reilly Auto Parts",
-      "lat": 45.498727,
-      "lon": -122.5781487,
-      "tags": {
-        "addr:city": "Portland",
-        "addr:housenumber": "3232",
-        "addr:postcode": "97266",
-        "addr:state": "OR",
-        "addr:street": "Southeast 82nd Avenue",
-        "brand": "O'Reilly Auto Parts",
-        "brand:wikidata": "Q7071951",
-        "building": "retail",
-        "building:levels": "1",
-        "contact:phone": "+1-503-788-3470",
-        "contact:website": "https://locations.oreillyauto.com/or/portland/autoparts-3748.html",
-        "drive_through": "no",
-        "name": "O'Reilly Auto Parts",
-        "opening_hours": "Mo-Sa 07:30-22:00; Su 08:00-20:00",
-        "ref": "3748",
-        "shop": "car_parts"
-      },
-      "type": "business",
-      "category": "creator-spaces"
-    },
-    {
-      "id": 452906513,
-      "name": "Target",
-      "lat": 45.4882962,
-      "lon": -122.7877209,
-      "tags": {
-        "addr:city": "Beaverton",
-        "addr:housenumber": "10775",
-        "addr:postcode": "97005",
-        "addr:state": "OR",
-        "addr:street": "Southwest Beaverton Hillsdale Highway",
-        "brand": "Target",
-        "brand:wikidata": "Q1046951",
-        "building": "retail",
-        "building:levels": "1",
-        "name": "Target",
-        "opening_hours": "Mo-Sa 07:00-23:00; Su 07:00-22:00",
-        "phone": "+1 503-626-8345",
-        "ref": "344",
-        "roof:levels": "0",
-        "roof:shape": "flat",
-        "shop": "department_store",
-        "toilets": "yes",
-        "website": "https://www.target.com/sl/beaverton/344"
-      },
-      "type": "business",
-      "category": "creator-spaces"
-    },
-    {
-      "id": 453465693,
-      "name": "Michaels",
-      "lat": 45.484247,
-      "lon": -122.7845763,
-      "tags": {
-        "addr:city": "Beaverton",
-        "addr:housenumber": "4955",
-        "addr:postcode": "97005",
-        "addr:state": "OR",
-        "addr:street": "Southwest Western Avenue",
-        "brand": "Michaels",
-        "brand:wikidata": "Q6835667",
-        "building": "yes",
-        "name": "Michaels",
-        "opening_hours": "Mo-Fr 09:00-21:00; Sa 09:00-22:00; Su 10:00-21:00",
-        "phone": "+1 503-646-8385",
-        "ref": "8502",
-        "shop": "craft",
-        "website": "https://locations.michaels.com/or/beaverton/8502"
       },
       "type": "business",
       "category": "creator-spaces"
@@ -7896,101 +6756,6 @@
       "category": "creator-spaces"
     },
     {
-      "id": 475173823,
-      "name": "Ross",
-      "lat": 45.4941265,
-      "lon": -122.5757655,
-      "tags": {
-        "addr:city": "Portland",
-        "addr:housenumber": "3900",
-        "addr:postcode": "97266",
-        "addr:state": "OR",
-        "addr:street": "Southeast 82nd Avenue",
-        "addr:unit": "2000",
-        "brand": "Ross",
-        "brand:wikidata": "Q3442791",
-        "building": "yes",
-        "name": "Ross",
-        "official_name": "Ross Dress for Less",
-        "opening_hours": "Mo-Th 09:00-23:00; Fr,Sa 08:30-23:00; Su 09:00-22:30",
-        "phone": "+1 503-771-1209",
-        "ref": "1380",
-        "shop": "department_store",
-        "website": "https://www.rossstores.com/"
-      },
-      "type": "business",
-      "category": "creator-spaces"
-    },
-    {
-      "id": 475413644,
-      "name": "Ross",
-      "lat": 45.5061309,
-      "lon": -122.4961262,
-      "tags": {
-        "addr:city": "Portland",
-        "addr:housenumber": "16339",
-        "addr:postcode": "97236",
-        "addr:state": "OR",
-        "addr:street": "Southeast Division Street",
-        "brand": "Ross",
-        "brand:wikidata": "Q3442791",
-        "building": "yes",
-        "name": "Ross",
-        "official_name": "Ross Dress for Less",
-        "opening_hours": "Mo-Th 09:30-22:00; Fr,Sa 09:30-22:30; Su 09:30-21:30",
-        "phone": "+1 503-761-0981",
-        "ref": "1706",
-        "shop": "department_store",
-        "website": "https://www.rossstores.com/"
-      },
-      "type": "business",
-      "category": "creator-spaces"
-    },
-    {
-      "id": 475413678,
-      "name": "AutoZone",
-      "lat": 45.5048841,
-      "lon": -122.4942945,
-      "tags": {
-        "addr:city": "Portland",
-        "addr:housenumber": "16415",
-        "addr:postcode": "97236",
-        "addr:state": "OR",
-        "addr:street": "Southeast Division Street",
-        "brand": "AutoZone",
-        "brand:wikidata": "Q4826087",
-        "building": "yes",
-        "name": "AutoZone",
-        "opening_hours": "Mo-Sa 07:30-21:00; Su 08:00-20:00",
-        "phone": "+1-503-761-3963",
-        "shop": "car_parts",
-        "website": "https://www.autozone.com/locations/or/portland/16415-se-division-st.html"
-      },
-      "type": "business",
-      "category": "creator-spaces"
-    },
-    {
-      "id": 480051456,
-      "name": "AutoZone",
-      "lat": 45.4756218,
-      "lon": -122.5786943,
-      "tags": {
-        "addr:city": "Portland",
-        "addr:housenumber": "6514",
-        "addr:postcode": "97266",
-        "addr:state": "OR",
-        "addr:street": "Southeast 82nd Avenue",
-        "brand": "AutoZone",
-        "brand:wikidata": "Q4826087",
-        "building": "yes",
-        "name": "AutoZone",
-        "shop": "car_parts",
-        "website": "https://www.autozone.com/locations/or/portland/6514-se-82nd-ave.html"
-      },
-      "type": "business",
-      "category": "creator-spaces"
-    },
-    {
       "id": 482785513,
       "name": "Annie Meyer",
       "lat": 45.5035338,
@@ -8006,147 +6771,6 @@
         "phone": "+1-503-957-6800",
         "shop": "art",
         "website": "https://anniemeyerartwork.com/"
-      },
-      "type": "business",
-      "category": "creator-spaces"
-    },
-    {
-      "id": 498761724,
-      "name": "O'Reilly Auto Parts",
-      "lat": 45.5817182,
-      "lon": -122.721267,
-      "tags": {
-        "addr:city": "Portland",
-        "addr:housenumber": "5155",
-        "addr:postcode": "97203",
-        "addr:state": "OR",
-        "addr:street": "North Lombard Street",
-        "brand": "O'Reilly Auto Parts",
-        "brand:wikidata": "Q7071951",
-        "building": "yes",
-        "contact:phone": "+1-503-289-0108",
-        "contact:website": "https://locations.oreillyauto.com/or/portland/autoparts-4595.html",
-        "name": "O'Reilly Auto Parts",
-        "opening_hours": "Mo-Sa 07:30-21:00; Su 08:00-20:00",
-        "ref": "4595",
-        "shop": "car_parts"
-      },
-      "type": "business",
-      "category": "creator-spaces"
-    },
-    {
-      "id": 498918646,
-      "name": "O'Reilly Auto Parts",
-      "lat": 45.5028396,
-      "lon": -122.5366614,
-      "tags": {
-        "addr:city": "Portland",
-        "addr:housenumber": "2626",
-        "addr:postcode": "97236",
-        "addr:state": "OR",
-        "addr:street": "Southeast 122nd Avenue",
-        "brand": "O'Reilly Auto Parts",
-        "brand:wikidata": "Q7071951",
-        "building": "yes",
-        "contact:phone": "+1-971-230-1554",
-        "contact:website": "https://locations.oreillyauto.com/or/portland/autoparts-4921.html",
-        "name": "O'Reilly Auto Parts",
-        "opening_hours": "Mo-Sa 07:30-22:00; Su 08:00-20:00",
-        "ref": "4921",
-        "shop": "car_parts"
-      },
-      "type": "business",
-      "category": "creator-spaces"
-    },
-    {
-      "id": 498962537,
-      "name": "NAPA Auto Parts",
-      "lat": 45.5045291,
-      "lon": -122.5353536,
-      "tags": {
-        "addr:city": "Portland",
-        "addr:housenumber": "12409",
-        "addr:postcode": "97236",
-        "addr:state": "OR",
-        "addr:street": "Southeast Division Street",
-        "brand": "NAPA Auto Parts",
-        "brand:wikidata": "Q6970842",
-        "building": "yes",
-        "building:levels": "1",
-        "ele": "86.6",
-        "height": "5.9",
-        "name": "NAPA Auto Parts",
-        "opening_hours": "Mo-Fr 07:30-19:00; Sa 08:00-18:00; Su 09:00-17:00",
-        "phone": "+1 503-964-6350",
-        "ref": "15",
-        "shop": "car_parts",
-        "short_name": "NAPA",
-        "website": "https://www.napaonline.com/en/or/portland/store/800042"
-      },
-      "type": "business",
-      "category": "creator-spaces"
-    },
-    {
-      "id": 500320942,
-      "name": "AutoZone",
-      "lat": 45.5269268,
-      "lon": -122.537329,
-      "tags": {
-        "addr:city": "Portland",
-        "addr:housenumber": "550",
-        "addr:postcode": "97230",
-        "addr:state": "OR",
-        "addr:street": "Northeast 122nd Avenue",
-        "brand": "AutoZone",
-        "brand:wikidata": "Q4826087",
-        "building": "yes",
-        "name": "AutoZone",
-        "opening_hours": "Mo-Fr 07:30-22:00; Sa 07:30-21:00; Su 08:00-20:00",
-        "phone": "+1-503-256-5292",
-        "shop": "car_parts",
-        "website": "https://www.autozone.com/locations/or/portland/550-ne-122nd-ave.html"
-      },
-      "type": "business",
-      "category": "creator-spaces"
-    },
-    {
-      "id": 501274236,
-      "name": "O'Reilly Auto Parts",
-      "lat": 45.5434521,
-      "lon": -122.6022938,
-      "tags": {
-        "addr:city": "Portland",
-        "addr:housenumber": "5915",
-        "addr:postcode": "97213",
-        "addr:state": "OR",
-        "addr:street": "Northeast Sandy Boulevard",
-        "brand": "O'Reilly Auto Parts",
-        "brand:wikidata": "Q7071951",
-        "building": "yes",
-        "name": "O'Reilly Auto Parts",
-        "shop": "car_parts",
-        "website": "https://locations.oreillyauto.com/or/portland/autoparts-2530.html"
-      },
-      "type": "business",
-      "category": "creator-spaces"
-    },
-    {
-      "id": 529029867,
-      "name": "A-1 Truck Parts",
-      "lat": 45.6096696,
-      "lon": -122.7596758,
-      "tags": {
-        "addr:city": "Portland",
-        "addr:housenumber": "9609",
-        "addr:postcode": "97203",
-        "addr:state": "OR",
-        "addr:street": "North Columbia Boulevard",
-        "building": "yes",
-        "building:levels": "2",
-        "name": "A-1 Truck Parts",
-        "phone": "+1-503-283-2925",
-        "shop": "car_parts",
-        "website": "https://www.a-1truckparts.com/"
       },
       "type": "business",
       "category": "creator-spaces"
@@ -8219,27 +6843,6 @@
         "opening_hours": "We-Sa 12:00-18:00",
         "phone": "+1-503-347-9871",
         "shop": "art"
-      },
-      "type": "business",
-      "category": "creator-spaces"
-    },
-    {
-      "id": 551364141,
-      "name": "AutoZone",
-      "lat": 45.5106745,
-      "lon": -122.5782689,
-      "tags": {
-        "addr:city": "Portland",
-        "addr:housenumber": "1710",
-        "addr:postcode": "97216",
-        "addr:state": "OR",
-        "addr:street": "Southeast 82nd Avenue",
-        "brand": "AutoZone",
-        "brand:wikidata": "Q4826087",
-        "building": "yes",
-        "name": "AutoZone",
-        "shop": "car_parts",
-        "website": "https://www.autozone.com/locations/or/portland/1710-se-82nd-ave.html"
       },
       "type": "business",
       "category": "creator-spaces"
@@ -8343,153 +6946,6 @@
       "category": "creator-spaces"
     },
     {
-      "id": 563495480,
-      "name": "Ross",
-      "lat": 45.5326127,
-      "lon": -122.5618994,
-      "tags": {
-        "addr:city": "Portland",
-        "addr:housenumber": "9916",
-        "addr:postcode": "97220",
-        "addr:state": "OR",
-        "addr:street": "Northeast Halsey Street",
-        "alt_name": "Ross Dress For Less",
-        "brand": "Ross",
-        "brand:wikidata": "Q3442791",
-        "building": "yes",
-        "name": "Ross",
-        "official_name": "Ross Dress for Less",
-        "opening_hours": "Mo-Th 09:00-23:30; Fr,Sa 08:30-23:00; Su 09:00-22:30",
-        "phone": "+1 503-253-5604",
-        "ref": "259",
-        "shop": "department_store",
-        "website": "https://www.rossstores.com/"
-      },
-      "type": "business",
-      "category": "creator-spaces"
-    },
-    {
-      "id": 577830629,
-      "name": "NAPA Auto Parts",
-      "lat": 45.4325283,
-      "lon": -122.7654302,
-      "tags": {
-        "addr:city": "Tigard",
-        "addr:housenumber": "12085",
-        "addr:postcode": "97223",
-        "addr:state": "OR",
-        "addr:street": "Southwest Hall Boulevard",
-        "brand": "NAPA Auto Parts",
-        "brand:wikidata": "Q6970842",
-        "building": "yes",
-        "name": "NAPA Auto Parts",
-        "opening_hours": "Mo-Fr 07:30-20:00; Sa 08:00-18:00; Su 09:00-17:00",
-        "operator": "Genuine Parts Company",
-        "operator:wikidata": "Q5533818",
-        "operator:wikipedia": "en:Genuine Parts Company",
-        "phone": "+1-503-639-0656",
-        "shop": "car_parts",
-        "website": "https://www.napaonline.com/"
-      },
-      "type": "business",
-      "category": "creator-spaces"
-    },
-    {
-      "id": 588804237,
-      "name": "Bi-Mart",
-      "lat": 45.4914387,
-      "lon": -122.4878951,
-      "tags": {
-        "addr:city": "Portland",
-        "addr:housenumber": "17108",
-        "addr:postcode": "97236",
-        "addr:state": "OR",
-        "addr:street": "Southeast Powell Boulevard",
-        "brand": "Bi-Mart",
-        "brand:wikidata": "Q4902331",
-        "building": "yes",
-        "building:levels": "1",
-        "disused": "building",
-        "ele": "86.8",
-        "height": "9.1",
-        "name": "Bi-Mart",
-        "opening_hours": "Mo-Fr 09:00-20:00; Sa 09:00-18:00; Su 10:00-18:00",
-        "phone": "+1-503-667-5494",
-        "shop": "department_store",
-        "website": "https://www.bimart.com/"
-      },
-      "type": "business",
-      "category": "creator-spaces"
-    },
-    {
-      "id": 597065544,
-      "name": "Tabor's Automotive Machine",
-      "lat": 45.6293044,
-      "lon": -122.678625,
-      "tags": {
-        "addr:city": "Vancouver",
-        "addr:housenumber": "701",
-        "addr:postcode": "98660",
-        "addr:state": "WA",
-        "addr:street": "West 11th Street",
-        "building": "commercial",
-        "name": "Tabor's Automotive Machine",
-        "shop": "car_parts"
-      },
-      "type": "business",
-      "category": "creator-spaces"
-    },
-    {
-      "id": 624028298,
-      "name": "Michaels",
-      "lat": 45.4417343,
-      "lon": -122.5812185,
-      "tags": {
-        "addr:city": "Happy Valley",
-        "addr:housenumber": "11211",
-        "addr:postcode": "97086",
-        "addr:state": "OR",
-        "addr:street": "Southeast 82nd Avenue",
-        "addr:unit": "F",
-        "brand": "Michaels",
-        "brand:wikidata": "Q6835667",
-        "building": "yes",
-        "check_date": "2023-12-08",
-        "contact:phone": "+1-503-652-0465",
-        "contact:website": "https://locations.michaels.com/OR/Clackamas/9805/",
-        "height": "9.5",
-        "name": "Michaels",
-        "opening_hours": "Mo-Sa 09:00-21:00; Su 10:00-19:00",
-        "phone": "+1 503-652-0465",
-        "ref": "9805",
-        "shop": "craft",
-        "website": "https://locations.michaels.com/or/clackamas/9805"
-      },
-      "type": "business",
-      "category": "creator-spaces"
-    },
-    {
-      "id": 688297595,
-      "name": "Advance Auto Parts",
-      "lat": 45.4899734,
-      "lon": -122.7996816,
-      "tags": {
-        "addr:city": "Beaverton",
-        "addr:housenumber": "11949",
-        "addr:postcode": "97005",
-        "addr:state": "OR",
-        "addr:street": "Southwest Canyon Road",
-        "brand": "Advance Auto Parts",
-        "brand:wikidata": "Q4686051",
-        "building": "yes",
-        "name": "Advance Auto Parts",
-        "shop": "car_parts",
-        "website": "https://stores.advanceautoparts.com/or/beaverton/11943-sw-canyon-rd"
-      },
-      "type": "business",
-      "category": "creator-spaces"
-    },
-    {
       "id": 691843875,
       "name": "I've Been Framed",
       "lat": 45.5216402,
@@ -8506,47 +6962,6 @@
         "phone": "+1-503-234-7102",
         "shop": "craft",
         "website": "https://ivebeenframedpdx.com/"
-      },
-      "type": "business",
-      "category": "creator-spaces"
-    },
-    {
-      "id": 839992795,
-      "name": "AutoZone",
-      "lat": 45.6202027,
-      "lon": -122.5035481,
-      "tags": {
-        "brand": "AutoZone",
-        "brand:wikidata": "Q4826087",
-        "building": "yes",
-        "name": "AutoZone",
-        "shop": "car_parts",
-        "website": "https://www.autozone.com/locations/wa/vancouver/16509-se-1st-st.html"
-      },
-      "type": "business",
-      "category": "creator-spaces"
-    },
-    {
-      "id": 840963280,
-      "name": "AutoZone",
-      "lat": 45.5807188,
-      "lon": -122.7184573,
-      "tags": {
-        "addr:city": "Portland",
-        "addr:housenumber": "4803",
-        "addr:postcode": "97203",
-        "addr:state": "OR",
-        "addr:street": "North Lombard Street",
-        "brand": "AutoZone",
-        "brand:wikidata": "Q4826087",
-        "building": "yes",
-        "name": "AutoZone",
-        "opening_hours": "Mo-Sa 07:30-21:00; Su 08:00-20:00",
-        "payment:cash": "yes",
-        "payment:mastercard": "yes",
-        "payment:visa": "yes",
-        "shop": "car_parts",
-        "website": "https://www.autozone.com/locations/or/portland/4803-n-lombard.html"
       },
       "type": "business",
       "category": "creator-spaces"
@@ -8613,25 +7028,6 @@
         "ref": "25",
         "shop": "department_store",
         "website": "https://www.nordstrom.com/store-details/united-states/or/tigard/nordstrom-washington-square"
-      },
-      "type": "business",
-      "category": "creator-spaces"
-    },
-    {
-      "id": 1037142181,
-      "name": "Portland Import Auto Parts",
-      "lat": 45.5574317,
-      "lon": -122.5270977,
-      "tags": {
-        "addr:city": "Portland",
-        "addr:housenumber": "13126",
-        "addr:postcode": "97230",
-        "addr:street": "Northeast Whitaker Way",
-        "contact:website": "http://www.portlandimportautoparts.com/",
-        "industrial": "scrap_yard",
-        "landuse": "industrial",
-        "name": "Portland Import Auto Parts",
-        "shop": "car_parts"
       },
       "type": "business",
       "category": "creator-spaces"
@@ -8850,24 +7246,6 @@
         "name": "Future Shock",
         "shop": "music",
         "website": "https://www.futureshockpdx.com/"
-      },
-      "type": "business",
-      "category": "record-stores"
-    },
-    {
-      "id": 6334285232,
-      "name": "Crossroads Records",
-      "lat": 45.4829141,
-      "lon": -122.5798122,
-      "tags": {
-        "addr:city": "Portland",
-        "addr:housenumber": "8112",
-        "addr:postcode": "97206",
-        "addr:state": "OR",
-        "addr:street": "Southeast Foster Road",
-        "name": "Crossroads Records",
-        "shop": "music",
-        "website": "http://www.xro.com/"
       },
       "type": "business",
       "category": "record-stores"
@@ -14520,26 +12898,6 @@
       "category": "indie-coffee"
     },
     {
-      "id": 4295332749,
-      "name": "Ross Island Grocery",
-      "lat": 45.4978216,
-      "lon": -122.6757704,
-      "tags": {
-        "addr:city": "Portland",
-        "addr:housenumber": "3502",
-        "addr:postcode": "97239",
-        "addr:state": "OR",
-        "addr:street": "South Corbett Avenue",
-        "amenity": "cafe",
-        "name": "Ross Island Grocery",
-        "opening_hours": "Mo-Fr 07:00-20:00,Sa 08:00-19:00,Su 08:00-17:00",
-        "phone": "+1 503 2274531",
-        "website": "http://www.rossislandgrocery.com/"
-      },
-      "type": "business",
-      "category": "indie-coffee"
-    },
-    {
       "id": 4316212612,
       "name": "Honey Latte Cafe",
       "lat": 45.5138706,
@@ -16174,23 +14532,6 @@
       "category": "indie-coffee"
     },
     {
-      "id": 6243267698,
-      "name": "Monte Rossa Caffe",
-      "lat": 45.5257375,
-      "lon": -122.6746674,
-      "tags": {
-        "addr:city": "Portland",
-        "addr:housenumber": "327",
-        "addr:postcode": "97209",
-        "addr:state": "OR",
-        "addr:street": "Northwest 4th Avenue",
-        "amenity": "cafe",
-        "name": "Monte Rossa Caffe"
-      },
-      "type": "business",
-      "category": "indie-coffee"
-    },
-    {
       "id": 6243273276,
       "name": "Montis Cafe",
       "lat": 45.5189138,
@@ -17253,19 +15594,6 @@
         "amenity": "cafe",
         "cuisine": "coffee_shop",
         "name": "Cafe Ume"
-      },
-      "type": "business",
-      "category": "indie-coffee"
-    },
-    {
-      "id": 7034860666,
-      "name": "Coffee Crossing",
-      "lat": 45.5088024,
-      "lon": -122.715576,
-      "tags": {
-        "amenity": "cafe",
-        "cuisine": "coffee_shop",
-        "name": "Coffee Crossing"
       },
       "type": "business",
       "category": "indie-coffee"
@@ -18601,19 +16929,6 @@
         "outdoor_seating": "no",
         "phone": "971-990-6092",
         "website": "https://bobacat.square.site/"
-      },
-      "type": "business",
-      "category": "indie-coffee"
-    },
-    {
-      "id": 10776434053,
-      "name": "Coffee Crossing",
-      "lat": 45.5089838,
-      "lon": -122.715844,
-      "tags": {
-        "amenity": "cafe",
-        "cuisine": "coffee_shop",
-        "name": "Coffee Crossing"
       },
       "type": "business",
       "category": "indie-coffee"

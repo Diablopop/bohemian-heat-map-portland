@@ -28,8 +28,9 @@ const GRID_SIZE_KM = 0.804;
 const GRID_LAT_STEP = 0.00724;
 const GRID_LON_STEP = 0.0103;
 
-// Chain restaurants to exclude from bohemian heat map
+// Chain restaurants and inappropriate businesses to exclude from bohemian heat map
 const EXCLUDED_CHAINS = [
+    // Fast food chains
     'subway',
     'starbucks',
     'mcdonald',
@@ -50,13 +51,33 @@ const EXCLUDED_CHAINS = [
     'chick-fil-a',
     'chick fil a',
     'panera',
-    'jack in the box'
+    'jack in the box',
+    // Retail chains
+    'autozone',
+    'bi-mart',
+    'bi mart',
+    'target',
+    'michael\'s',
+    'michaels',
+    'ross'
 ];
 
-// Check if a business should be excluded (is a chain restaurant)
+// Check if a business should be excluded (is a chain restaurant or inappropriate business)
 function isExcludedChain(business) {
     const name = (business.name || '').toLowerCase();
-    return EXCLUDED_CHAINS.some(chain => name.includes(chain));
+    
+    // Check excluded chains list
+    if (EXCLUDED_CHAINS.some(chain => name.includes(chain))) {
+        return true;
+    }
+    
+    // Exclude automotive-related businesses (especially from Creator Spaces)
+    const automotiveKeywords = ['auto parts', 'truck parts', 'automotive', 'car parts'];
+    if (automotiveKeywords.some(keyword => name.includes(keyword))) {
+        return true;
+    }
+    
+    return false;
 }
 
 // Initialize the application
@@ -177,11 +198,27 @@ function getCategoryDefinitions() {
                 out center tags;
             `.replace(/\{\{bbox\}\}/g, bbox),
             filterFn: (tags) => {
-                return tags.shop?.toLowerCase().includes('art') ||
+                // Basic category filter
+                const isCreatorSpace = tags.shop?.toLowerCase().includes('art') ||
                        tags.shop?.toLowerCase().includes('craft') ||
                        tags.craft ||
                        tags.amenity?.toLowerCase().includes('maker') ||
                        tags.amenity?.toLowerCase().includes('workshop');
+                
+                if (!isCreatorSpace) return false;
+                
+                // Exclude automotive-related shops and retail chains
+                const name = (tags.name || '').toLowerCase();
+                const automotiveKeywords = ['auto parts', 'truck parts', 'automotive', 'car parts'];
+                const excludedRetailChains = ['autozone', 'bi-mart', 'bi mart', 'target', 'michael\'s', 'michaels', 'ross'];
+                
+                // Exclude if matches automotive keywords or retail chains
+                if (automotiveKeywords.some(keyword => name.includes(keyword)) ||
+                    excludedRetailChains.some(chain => name.includes(chain))) {
+                    return false;
+                }
+                
+                return true;
             }
         },
         'music-venues': {
